@@ -7,6 +7,4 @@
 
 其他詞典文件來自：https://github.com/Iorest/rime-dict
 
-壬寅官話簡介：
-
-https://www.bilibili.com/opus/901025508129505312
+壬寅官話簡介：https://www.bilibili.com/opus/901025508129505312
