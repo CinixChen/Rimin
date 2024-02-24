@@ -1,0 +1,23 @@
+---
+name: rimin
+version: "2024.02.15"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - rimin01
+  - rimin02
+  - luna_pinyin.extended
+  - luna_pinyin.hanyu
+  - luna_pinyin.poetry
+  - luna_pinyin.name
+  - luna_pinyin.anime
+  - luna_pinyin.history
+  - luna_pinyin.practical
+  - luna_pinyin.classical
+  - luna_pinyin.daily
+  - luna_pinyin.movie
+  - luna_pinyin.computer
+  - luna_pinyin.basis
+  - luna_pinyin.net
+  - luna_pinyin.chat
+...
