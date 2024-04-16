@@ -4,7 +4,7 @@
 schema:
   schema_id: rimin
   name: 壬寅官話
-  version: "2024.02.15"
+  version: "2024.03.14"
   author:
     - "cinix <cinix.chen@gmail.com>"
   description: | 
@@ -52,7 +52,7 @@ speller:
   delimiter: " '"
   algebra:
 
-    - derive/([aeoiuy])h$/$1/
+    - xform/h$//
 
     - derive/^([a-z][a-z])[a-z]([a-z]*)$/$1x$2/
     - derive/^([a-z]*)[a-z]([a-z][a-z])$/$1x$2/
