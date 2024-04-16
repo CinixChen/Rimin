@@ -3,6 +3,8 @@
 
 反查爲朙月拼音，按"`"開啓反查。
 
+入聲轉寫中末尾的h不參與輸入匹配。
+
 目前壬寅官話單字字典爲rimin01。rimin02暫時爲空。
 
 其他詞典文件來自：https://github.com/Iorest/rime-dict
