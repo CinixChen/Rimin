@@ -1,6 +1,6 @@
 ---
 name: rimin01
-version: "2024.03.14"
+version: "2024.06.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1431,7 +1431,8 @@ use_preset_vocabulary: true
 掌	zhiang	
 森	shem	
 隆	lyung	
-抓	zhau	
+抓	zhua	
+抓	zhau	1%
 楊	jang	
 辭	sr	
 惠	hui	
@@ -1789,7 +1790,8 @@ use_preset_vocabulary: true
 握	joh	
 幼	iu	
 暫	zam	
-傻	shua	
+傻	sha	
+傻	shua	1%
 裁	cai	
 裁	zai	
 岩	ngiam	
@@ -3820,7 +3822,8 @@ use_preset_vocabulary: true
 宛	yen	
 樺	hua	
 橄	gam	
-檸	neng	
+檸	ning	
+檸	neng	1%
 癖	pih	
 覓	mih	
 峭	cieu	
