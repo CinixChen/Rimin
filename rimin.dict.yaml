@@ -1,6 +1,6 @@
 ---
 name: rimin
-version: "2024.02.15"
+version: "2024.10.01"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -20,4 +20,5 @@ import_tables:
   - luna_pinyin.basis
   - luna_pinyin.net
   - luna_pinyin.chat
+  - luna_pinyin.netslang
 ...
