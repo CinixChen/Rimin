@@ -1,16 +1,16 @@
 ---
 name: rimin01
-version: "2024.10.01"
+version: "2024.10.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
 的	de	
 不	buh	
-一	ih	
+一	jih	
 是	shr	
 人	rin	
-有	iu	
+有	jiu	
 了	le	
 我	ngo	
 大	da	
@@ -36,13 +36,13 @@ use_preset_vocabulary: true
 天	tien	
 地	di	
 可	ko	
-爲	ui	
+爲	wui	
 時	shr	
 學	hioh	
 小	sieu	
 發	fah	
 多	do	
-以	i	
+以	ji	
 用	yung	
 沒	meh	
 行	hing	
@@ -129,7 +129,7 @@ use_preset_vocabulary: true
 外	nguoi	
 重	chyung	
 重	zhyung	
-意	i	
+意	ji	
 的	dih	10%
 氣	ki	
 海	hai	
@@ -168,7 +168,7 @@ use_preset_vocabulary: true
 十	shih	
 產	shan	
 兩	liang	
-應	ing	
+應	jing	
 女	ny	
 民	min	
 話	hua	
@@ -228,7 +228,7 @@ use_preset_vocabulary: true
 單	dan	
 價	gia	
 保	bou	
-位	ui	
+位	wui	
 見	gien	
 次	cr	
 制	zhi	
@@ -279,7 +279,7 @@ use_preset_vocabulary: true
 語	ngy	
 運	yn	
 司	sr	
-因	in	
+因	jin	
 快	kuai	
 號	hau	
 少	shieu	
@@ -321,12 +321,12 @@ use_preset_vocabulary: true
 展	zhien	
 系	hi	
 論	lun	
-已	i	
+已	ji	
 喫	kih	
 但	dan	
 邊	bien	
 她	ta	
-音	im	
+音	jim	
 百	beh	
 強	kiang	
 江	giang	
@@ -369,9 +369,9 @@ use_preset_vocabulary: true
 標	bieu	
 覺	giau	
 覺	gioh	
-影	ing	
-遊	iu	
-油	iu	
+影	jing	
+遊	jiu	
+油	jiu	
 張	zhiang	
 聯	lien	
 集	zih	
@@ -379,7 +379,7 @@ use_preset_vocabulary: true
 怎	zem	
 考	kau	
 視	shr	
-又	iu	
+又	jiu	
 指	zhr	
 買	mai	
 算	suon	
@@ -442,12 +442,12 @@ use_preset_vocabulary: true
 辦	ban	
 取	cy	
 才	cai	
-友	iu	
+友	jiu	
 備	bei	
 步	bu	
 卡	ka	
 遠	yen	
-由	iu	
+由	jiu	
 告	gau	
 何	ho	
 料	lieu	
@@ -472,7 +472,7 @@ use_preset_vocabulary: true
 源	ngyen	
 功	gung	
 食	shih	
-類	lui	
+類	lyi	
 防	fang	
 每	moi	
 寫	sie	
@@ -517,8 +517,8 @@ use_preset_vocabulary: true
 貨	huo	
 亞	ja	
 寶	bou	
-易	i	
-易	ih	
+易	ji	
+易	jih	
 倒	dau	
 營	yng	
 親	cin	
@@ -540,7 +540,7 @@ use_preset_vocabulary: true
 早	zau	
 省	sheng	
 省	sing	
-英	ing	
+英	jing	
 便	bien	
 示	shr	
 濟	zi	
@@ -549,7 +549,7 @@ use_preset_vocabulary: true
 玩	nguon	
 票	pieu	
 素	su	
-衣	i	
+衣	ji	
 哪	na	
 毛	mou	
 案	an	
@@ -605,14 +605,14 @@ use_preset_vocabulary: true
 歌	go	
 範	fam	
 夫	fu	
-引	in	
+引	jin	
 假	gia	
 參	shem	
 參	cam	
 福	fuh	
 腦	nau	
 演	jen	
-醫	i	
+醫	ji	
 肉	ryuh	
 較	giau	
 波	bo	
@@ -628,7 +628,7 @@ use_preset_vocabulary: true
 雨	y	
 絕	zyeh	
 效	hiau	
-印	in	
+印	jin	
 狀	zhuang	
 銷	sieu	
 菜	cai	
@@ -676,7 +676,7 @@ use_preset_vocabulary: true
 模	mu	
 讀	duh	
 座	zuo	
-惡	u	
+惡	wu	
 惡	oh	
 樹	shy	
 供	gyung	
@@ -686,7 +686,7 @@ use_preset_vocabulary: true
 軟	ryen	
 創	chuang	
 沙	sha	
-溫	un	
+溫	wun	
 短	duon	
 玉	ngyuh	
 店	diem	
@@ -715,7 +715,7 @@ use_preset_vocabulary: true
 隨	sui	
 牌	pai	
 湖	hu	
-優	iu	
+優	jiu	
 鐘	zhyung	
 秋	ciu	
 舉	gy	
@@ -729,7 +729,7 @@ use_preset_vocabulary: true
 境	ging	
 彩	cai	
 財	cai	
-圍	ui	
+圍	wui	
 朝	zhieu	
 朝	chieu	
 洗	si	
@@ -742,7 +742,7 @@ use_preset_vocabulary: true
 派	pai	
 勝	shing	
 急	gih	
-異	i	
+異	ji	
 聞	ven	
 退	tuoi	
 許	hy	
@@ -766,7 +766,7 @@ use_preset_vocabulary: true
 份	fen	
 勞	lau	
 終	zhyung	
-衛	ui	
+衛	wui	
 衝	chyung	
 劃	hueh	
 善	shien	
@@ -774,7 +774,7 @@ use_preset_vocabulary: true
 味	vei	
 順	shyn	
 塊	kuoi	
-委	ui	
+委	wui	
 洋	jang	
 停	ting	
 散	san	
@@ -872,14 +872,14 @@ use_preset_vocabulary: true
 獎	ziang	
 左	zo	
 刻	keh	
-威	ui	
+威	wui	
 貴	gui	
 野	je	
 佔	diem	
 靠	kau	
 婚	hun	
 穿	chyen	
-益	ih	
+益	jih	
 吸	hih	
 承	ching	
 適	shih	
@@ -890,7 +890,7 @@ use_preset_vocabulary: true
 虎	hu	
 虛	hy	
 雪	syeh	
-依	i	
+依	ji	
 免	mien	
 私	sr	
 止	zhr	
@@ -900,8 +900,8 @@ use_preset_vocabulary: true
 索	soh	
 售	shiu	
 亮	liang	
-右	iu	
-稅	shui	
+右	jiu	
+稅	shyi	
 鬼	gui	
 哥	go	
 永	yng	
@@ -924,9 +924,9 @@ use_preset_vocabulary: true
 策	cheh	
 懷	huai	
 煙	jen	
-追	zhui	
+追	zhyi	
 批	pi	
-陰	im	
+陰	jim	
 突	tuh	
 佈	bu	
 牙	ngia	
@@ -934,7 +934,7 @@ use_preset_vocabulary: true
 鋼	gang	
 監	giam	
 操	cau	
-移	i	
+移	ji	
 針	zhim	
 弄	lung	
 迷	mi	
@@ -968,7 +968,7 @@ use_preset_vocabulary: true
 朋	peng	
 康	kang	
 奧	au	
-歲	sui	
+歲	syi	
 混	hun	
 互	hu	
 呼	hu	
@@ -998,7 +998,7 @@ use_preset_vocabulary: true
 偏	pien	
 蓋	gai	
 圈	kyen	
-說	shui	10%
+說	shyi	10%
 域	yh	
 陸	lyuh	
 尾	vei	
@@ -1066,9 +1066,9 @@ use_preset_vocabulary: true
 固	gu	
 冊	cheh	
 礦	gueng	
-烏	u	
+烏	wu	
 繼	gi	
-累	lui	
+累	lyi	
 禁	gim	
 閒	gian	
 零	ling	
@@ -1085,7 +1085,7 @@ use_preset_vocabulary: true
 婆	po	
 姐	zie	
 偷	teu	
-郵	iu	
+郵	jiu	
 午	ngu	
 乎	hu	
 薩	sah	
@@ -1102,11 +1102,11 @@ use_preset_vocabulary: true
 曾	ceng	
 魔	mo	
 療	lieu	
-隱	in	
+隱	jin	
 某	meu	
 疑	ngi	
 末	moh	
-液	ih	
+液	jih	
 磨	mo	
 浮	feu	
 婦	feu	
@@ -1182,14 +1182,14 @@ use_preset_vocabulary: true
 融	yung	
 泥	ni	
 伯	beh	
-穩	un	
+穩	wun	
 斗	deu	
 祖	zu	
 貝	boi	
 席	sih	
 抱	bou	
 幕	moh	
-伊	i	
+伊	ji	
 寬	kuon	
 灰	huoi	
 潮	chieu	
@@ -1205,7 +1205,7 @@ use_preset_vocabulary: true
 危	ngui	
 擔	dam	
 吹	chui	
-屋	uh	
+屋	wuh	
 冬	dung	
 鮮	sien	
 炎	jem	
@@ -1365,8 +1365,8 @@ use_preset_vocabulary: true
 曼	mon	
 曼	van	
 兄	hyng	
-飲	im	
-淚	lui	
+飲	jim	
+淚	lyi	
 賬	zhiang	
 恨	hen	
 諾	noh	
@@ -1399,7 +1399,7 @@ use_preset_vocabulary: true
 屏	ping	
 勇	yung	
 懂	dung	
-違	ui	
+違	wui	
 醒	sing	
 鬱	yh	
 冒	mou	
@@ -1414,7 +1414,7 @@ use_preset_vocabulary: true
 拳	kyen	
 併	bing	
 釋	shih	
-游	iu	
+游	jiu	
 噴	pen	
 悲	bei	
 享	hiang	
@@ -1433,7 +1433,7 @@ use_preset_vocabulary: true
 沖	chyung	
 洪	hung	
 騙	pien	
-譯	ih	
+譯	jih	
 徑	ging	
 吊	dieu	
 築	zhyuh	
@@ -1446,8 +1446,8 @@ use_preset_vocabulary: true
 壯	zhuang	
 伴	bon	
 衡	heng	
-億	ih	
-污	u	
+億	jih	
+污	wu	
 帖	tieh	
 患	huan	
 刊	kan	
@@ -1519,7 +1519,7 @@ use_preset_vocabulary: true
 姑	gu	
 膜	mu	
 膜	moh	
-映	ing	
+映	jing	
 債	zhai	
 迴	huoi	
 鳴	ming	
@@ -1539,7 +1539,7 @@ use_preset_vocabulary: true
 妻	ci	
 凡	fam	
 焦	zieu	
-憂	iu	
+憂	jiu	
 屆	giai	
 餅	bing	
 擴	huang	
@@ -1557,7 +1557,7 @@ use_preset_vocabulary: true
 奉	fung	
 漸	ziem	
 握	joh	
-幼	iu	
+幼	jiu	
 暫	zam	
 傻	sha	
 裁	cai	
@@ -1624,7 +1624,7 @@ use_preset_vocabulary: true
 屍	shr	
 柱	zhy	
 促	cyuh	
-幽	iu	
+幽	jiu	
 糊	hu	
 斑	ban	
 憑	ping	
@@ -1652,7 +1652,7 @@ use_preset_vocabulary: true
 疾	zih	
 番	fan	
 肚	du	
-乙	ih	
+乙	jih	
 跨	kua	
 措	cu	
 迫	beh	
@@ -1667,7 +1667,7 @@ use_preset_vocabulary: true
 不	feu	1%
 不	feh	1%
 兼	giem	
-偉	ui	
+偉	wui	
 禍	huo	
 儘	zin	
 賴	lai	
@@ -1753,14 +1753,14 @@ use_preset_vocabulary: true
 薪	sin	
 慈	cr	
 辣	lah	
-悠	iu	
+悠	jiu	
 宋	sung	
 膚	fu	
 崇	chung	
 咬	jau	
-贏	ing	
+贏	jing	
 稀	hi	
-尤	iu	
+尤	jiu	
 見	hien	10%
 瘦	sheu	
 汁	zhih	
@@ -1802,12 +1802,12 @@ use_preset_vocabulary: true
 譽	y	
 晉	zin	
 衰	shuai	
-胃	ui	
+胃	wui	
 漆	cih	
 姿	zr	
 嫁	gia	
 杜	du	
-盈	ing	
+盈	jing	
 框	kuang	
 扭	niu	
 遮	zhie	
@@ -1860,7 +1860,7 @@ use_preset_vocabulary: true
 耕	geng	
 轟	hueng	
 趨	cy	
-謂	ui	
+謂	wui	
 亭	ting	
 凌	ling	
 疊	dieh	
@@ -1873,7 +1873,7 @@ use_preset_vocabulary: true
 鄭	zhing	
 胖	pang	
 敲	kiau	
-翼	ih	
+翼	jih	
 梯	ti	
 剩	shing	
 遭	zau	
@@ -1885,9 +1885,9 @@ use_preset_vocabulary: true
 盆	pen	
 披	pei	
 閣	goh	
-淫	im	
+淫	jim	
 暢	chiang	
-憶	ih	
+憶	jih	
 慧	hyi	
 玄	hyen	
 蜂	fung	
@@ -1946,7 +1946,7 @@ use_preset_vocabulary: true
 漁	ngy	
 浩	hau	
 晨	chin	
-亦	ih	
+亦	jih	
 蜜	mih	
 籠	lung	
 碧	bih	
@@ -1968,7 +1968,7 @@ use_preset_vocabulary: true
 礙	ngai	
 催	cuoi	
 砍	kam	
-猶	iu	
+猶	jiu	
 醇	chyn	
 欣	hin	
 論	lyn	10%
@@ -1978,7 +1978,7 @@ use_preset_vocabulary: true
 叔	shyuh	
 迅	syn	
 疫	yh	
-逸	ih	
+逸	jih	
 餓	ngo	
 祥	siang	
 諧	hiai	
@@ -1999,7 +1999,7 @@ use_preset_vocabulary: true
 捐	yen	
 湧	yung	
 哇	wa	
-誘	iu	
+誘	jiu	
 氯	lyuh	
 丈	zhiang	
 摘	zheh	
@@ -2016,7 +2016,7 @@ use_preset_vocabulary: true
 滋	zr	
 乏	fah	
 葬	zang	
-孕	ing	
+孕	jing	
 渾	hun	
 輛	liang	
 駛	shr	
@@ -2051,7 +2051,7 @@ use_preset_vocabulary: true
 綱	gang	
 兔	tu	
 黏	niem	
-椅	i	
+椅	ji	
 粘	zhiem	
 粘	niem	
 釣	dieu	
@@ -2147,15 +2147,15 @@ use_preset_vocabulary: true
 蝶	dieh	
 墓	mu	
 喬	kieu	
-彙	ui	
+彙	wui	
 柴	chai	
-慰	ui	
+慰	wui	
 坊	fang	
 垃	lah	
 盾	shyn	
 恢	kuoi	
 灘	tan	
-畏	ui	
+畏	wui	
 湊	ceu	
 翠	cui	
 馳	chi	
@@ -2195,7 +2195,7 @@ use_preset_vocabulary: true
 賦	fu	
 咖	ka	
 捉	zhuoh	
-翁	ung	
+翁	wung	
 臟	zang	
 闖	chim	
 呈	ching	
@@ -2236,7 +2236,7 @@ use_preset_vocabulary: true
 霞	hia	
 簾	liem	
 慌	huang	
-脆	cui	
+脆	cyi	
 鋸	gy	
 氨	an	
 燙	tang	
@@ -2247,7 +2247,7 @@ use_preset_vocabulary: true
 庸	yung	
 悅	yeh	
 慕	mu	
-抑	ih	
+抑	jih	
 祿	luh	
 扁	bien	
 碩	shih	
@@ -2259,7 +2259,7 @@ use_preset_vocabulary: true
 禪	shien	
 愧	gui	
 丫	ja	
-鷹	ing	
+鷹	jing	
 卓	zhuoh	
 匹	pih	
 鑄	zhy	
@@ -2301,7 +2301,7 @@ use_preset_vocabulary: true
 滯	zhi	
 槓	gang	
 絨	ryung	
-姨	i	
+姨	ji	
 爵	zioh	
 盃	boi	
 殿	dien	
@@ -2325,14 +2325,14 @@ use_preset_vocabulary: true
 廚	chy	
 兜	deu	
 貞	zhing	
-壘	lui	
-夷	i	
+壘	lyi	
+夷	ji	
 醋	cu	
 驕	gieu	
 煎	zien	
 艇	ding	
 矛	meu	
-沃	uh	
+沃	wuh	
 拘	gy	
 恰	kiah	
 棚	peng	
@@ -2340,7 +2340,7 @@ use_preset_vocabulary: true
 椒	zieu	
 聰	cung	
 梨	li	
-溢	ih	
+溢	jih	
 遣	kien	
 脹	zhiang	
 砸	zah	
@@ -2438,7 +2438,7 @@ use_preset_vocabulary: true
 鬍	hu	
 爪	zhau	
 軋	jah	
-邑	ih	
+邑	jih	
 翔	siang	
 莎	suo	
 昧	moi	
@@ -2466,15 +2466,15 @@ use_preset_vocabulary: true
 渣	zha	
 閥	fah	
 岳	ngioh	
-墜	zhui	
+墜	zhyi	
 瓊	kyng	
 桐	tung	
 坎	kam	
 浙	zhieh	
 吟	ngim	
-餵	ui	
+餵	wui	
 躁	zau	
-嬰	ing	
+嬰	jing	
 喀	kah	
 喀	keh	
 烘	hung	
@@ -2554,7 +2554,7 @@ use_preset_vocabulary: true
 潘	pon	
 戚	cih	
 噪	sau	
-錘	chui	
+錘	chyi	
 婉	yen	
 頒	ban	
 瞧	cieu	
@@ -2628,13 +2628,13 @@ use_preset_vocabulary: true
 瞬	shyn	
 魅	mei	
 朔	shuoh	
-韋	ui	
+韋	wui	
 噸	dun	
 澄	cheng	
 澄	ching	
 腕	won	
 棵	kuo	
-姻	in	
+姻	jin	
 沸	fei	
 皺	zheu	
 酌	zhioh	
@@ -2656,7 +2656,7 @@ use_preset_vocabulary: true
 謎	mi	
 吼	heu	
 乍	zha	
-倚	i	
+倚	ji	
 垢	geu	
 奢	shie	
 跪	gui	
@@ -2747,7 +2747,7 @@ use_preset_vocabulary: true
 澆	gieu	
 饋	gui	
 滬	hu	
-緯	ui	
+緯	wui	
 稽	gi	
 豫	y	
 佐	zo	
@@ -2783,9 +2783,9 @@ use_preset_vocabulary: true
 罕	han	
 簧	huang	
 咳	keh	
-蔭	im	
-尉	ui	
-怡	i	
+蔭	jim	
+尉	wui	
+怡	ji	
 楓	fung	
 睜	zheng	
 撿	giem	
@@ -2811,7 +2811,7 @@ use_preset_vocabulary: true
 吏	li	
 垮	kua	
 匿	nih	
-癮	in	
+癮	jin	
 珊	san	
 駝	to	
 渦	wo	
@@ -2833,18 +2833,18 @@ use_preset_vocabulary: true
 眷	gyen	
 扳	ban	
 薯	shy	
-嗚	u	
+嗚	wu	
 綵	cai	
-殷	in	
+殷	jin	
 叨	dau	
 牡	meu	
 窟	kuh	
 魁	kuoi	
 禿	tuh	
-綴	zhui	
+綴	zhyi	
 纜	lam	
 惟	yi	
-蠅	ing	
+蠅	jing	
 峻	syn	
 蚊	ven	
 褐	hoh	
@@ -2934,7 +2934,7 @@ use_preset_vocabulary: true
 傭	yung	
 毯	tam	
 葫	hu	
-萎	ui	
+萎	wui	
 鏽	siu	
 蕉	zieu	
 諱	hui	
@@ -2954,14 +2954,14 @@ use_preset_vocabulary: true
 鑰	joh	
 麟	lin	
 鯨	king	
-渭	ui	
+渭	wui	
 擱	goh	
 嘯	sieu	
 逾	y	
 瑰	guoi	
 叭	bah	
 沽	gu	
-椎	chui	
+椎	chyi	
 驟	zheu	
 馴	syn	
 蒜	suon	
@@ -2983,7 +2983,7 @@ use_preset_vocabulary: true
 嘔	eu	
 粵	yeh	
 溺	nih	
-蔚	ui	
+蔚	wui	
 犧	hi	
 霄	sieu	
 焉	jen	
@@ -3001,7 +3001,7 @@ use_preset_vocabulary: true
 渝	y	
 葵	kyi	
 岔	cha	
-櫻	ing	
+櫻	jing	
 鞏	gyung	
 綺	ki	
 榴	liu	
@@ -3062,7 +3062,7 @@ use_preset_vocabulary: true
 嚕	lu	
 嗓	sang	
 嚥	jen	
-噁	u	
+噁	wu	
 能	nai	1%
 啃	keng	
 噢	au	
@@ -3090,7 +3090,7 @@ use_preset_vocabulary: true
 萌	meng	
 俏	cieu	
 秩	zhih	
-穢	ui	
+穢	wui	
 旭	hyuh	
 躬	gyung	
 抒	shy	
@@ -3116,7 +3116,7 @@ use_preset_vocabulary: true
 吱	ki	
 氛	fen	
 妒	du	
-鶯	ing	
+鶯	jing	
 肋	leh	
 擒	kim	
 隴	lyung	
@@ -3131,7 +3131,7 @@ use_preset_vocabulary: true
 峨	ngo	
 蛾	ngo	
 沂	ngi	
-贅	zhui	
+贅	zhyi	
 齊	zi	10%
 汝	ry	
 冗	ryung	
@@ -3165,7 +3165,7 @@ use_preset_vocabulary: true
 篤	duh	
 綸	lyn	
 綸	guan	
-奕	ih	
+奕	jih	
 肘	zhiu	
 玫	moi	
 檀	tan	
@@ -3195,7 +3195,7 @@ use_preset_vocabulary: true
 區	eu	1%
 洶	hyung	
 揀	gian	
-頤	i	
+頤	ji	
 溯	su	
 粟	syuh	
 芥	giai	
@@ -3273,7 +3273,7 @@ use_preset_vocabulary: true
 柵	shan	
 柵	cheh	
 尸	shr	
-驛	ih	
+驛	jih	
 耿	geng	
 駿	zyn	
 芹	kin	
@@ -3390,7 +3390,7 @@ use_preset_vocabulary: true
 頰	gieh	
 芙	fu	
 瀟	sieu	
-佑	iu	
+佑	jiu	
 侃	kan	
 墮	duo	
 烹	peng	
@@ -3415,9 +3415,9 @@ use_preset_vocabulary: true
 丰	fung	
 誡	giai	
 斌	bin	
-甕	ung	
-胰	i	
-帷	ui	
+甕	wung	
+胰	ji	
+帷	wui	
 漱	sheu	
 吶	nah	
 疇	chiu	
@@ -3432,7 +3432,7 @@ use_preset_vocabulary: true
 漣	lien	
 廝	sr	
 稠	chiu	
-貽	i	
+貽	ji	
 闔	hoh	
 礁	zieu	
 亥	hai	
@@ -3461,7 +3461,7 @@ use_preset_vocabulary: true
 俘	fu	
 蠍	hieh	
 鄒	zheu	
-壹	ih	
+壹	jih	
 妾	cieh	
 繭	gien	
 嚮	hiang	
@@ -3494,7 +3494,7 @@ use_preset_vocabulary: true
 祠	sr	
 悖	boi	
 嗔	chin	
-於	u	1%
+於	wu	1%
 紳	shin	
 摯	zhr	
 埠	bu	
@@ -3503,7 +3503,7 @@ use_preset_vocabulary: true
 唾	tuo	
 贛	gam	
 涎	sien	
-裔	i	
+裔	ji	
 萃	zui	
 檐	jem	
 蠹	du	
@@ -3538,9 +3538,9 @@ use_preset_vocabulary: true
 娼	chiang	
 婁	leu	
 痹	bi	
-掖	ih	
+掖	jih	
 鵰	dieu	
-寅	in	
+寅	jin	
 挑	tau	10%
 遏	oh	
 晤	ngu	
@@ -3558,7 +3558,7 @@ use_preset_vocabulary: true
 倪	ngi	
 炫	hyen	
 甌	eu	
-腋	ih	
+腋	jih	
 箕	gi	
 帛	beh	
 敖	ngau	
@@ -3574,7 +3574,7 @@ use_preset_vocabulary: true
 霎	shah	
 惕	tih	
 乓	pang	
-繹	ih	
+繹	jih	
 噩	ngoh	
 睇	di	
 饞	cham	
@@ -3588,7 +3588,7 @@ use_preset_vocabulary: true
 炳	bing	
 斐	fei	
 嗜	shr	
-嗡	ung	
+嗡	wung	
 叱	chih	
 堯	ngieu	
 夭	jeu	
@@ -3684,7 +3684,7 @@ use_preset_vocabulary: true
 臍	ci	
 炙	zhih	
 兢	ging	
-曳	i	
+曳	ji	
 禧	hi	
 顱	lu	
 靂	lih	
@@ -3695,17 +3695,17 @@ use_preset_vocabulary: true
 蜚	fei	
 菁	zing	
 臀	tun	
-釉	iu	
+釉	jiu	
 淇	ki	
 饑	gi	
 恃	shr	
-酉	iu	
-喂	ui	
+酉	jiu	
+喂	wui	
 蹊	hi	
-鈾	iu	
+鈾	jiu	
 蔗	zhie	
 鯉	li	
-瘟	un	
+瘟	wun	
 戮	lyuh	
 嗒	dah	
 皁	zau	
@@ -3723,7 +3723,7 @@ use_preset_vocabulary: true
 榻	tah	
 鏤	leu	
 霖	lim	
-臆	ih	
+臆	jih	
 涂	tu	
 稼	gia	
 蹭	ceng	
@@ -3744,7 +3744,7 @@ use_preset_vocabulary: true
 犢	duh	
 澈	zhieh	
 諄	zhyn	
-瑋	ui	
+瑋	wui	
 鷗	eu	
 荼	tu	
 洱	r	
@@ -3787,7 +3787,7 @@ use_preset_vocabulary: true
 鋤	chu	
 縈	yng	
 咚	dung	
-茵	in	
+茵	jin	
 釜	fu	
 簍	leu	
 平	pien	1%
@@ -3835,7 +3835,7 @@ use_preset_vocabulary: true
 霏	fei	
 蔻	heu	
 筷	kuai	
-纓	ing	
+纓	jing	
 棠	tang	
 涓	gyen	
 驪	li	
@@ -3878,7 +3878,7 @@ use_preset_vocabulary: true
 潦	lau	
 澇	lau	
 仟	cien	
-矣	i	
+矣	ji	
 迥	hyng	
 皰	pau	
 顎	ngoh	
@@ -3886,7 +3886,7 @@ use_preset_vocabulary: true
 恙	jang	
 灸	giu	
 殯	bin	
-弋	ih	
+弋	jih	
 噬	shi	
 斟	zhim	
 淄	zhr	
@@ -3900,7 +3900,7 @@ use_preset_vocabulary: true
 幀	zhing	
 訕	shan	
 搔	sau	
-塢	u	
+塢	wu	
 幢	zhuang	
 霓	ngi	
 嗆	ciang	
@@ -3914,16 +3914,16 @@ use_preset_vocabulary: true
 鰭	ki	
 菠	bo	
 鵠	huh	
-葦	ui	
+葦	wui	
 訝	ngia	
-懿	i	
+懿	ji	
 慚	cam	
 兀	nguh	
 怔	zhing	
 孺	ry	
 戾	li	
 賃	nim	
-弈	ih	
+弈	jih	
 晌	shiang	
 謗	bang	
 仆	fu	
@@ -3946,11 +3946,11 @@ use_preset_vocabulary: true
 冉	riem	
 壕	hau	
 竺	zhyuh	
-鸚	ing	
+鸚	jing	
 冢	zhyung	
 瓏	lung	
 餚	hiau	
-彝	i	
+彝	ji	
 蜥	sih	
 淀	dien	
 肛	gang	
@@ -3978,7 +3978,7 @@ use_preset_vocabulary: true
 俑	yung	
 祀	sr	
 漉	luh	
-咿	i	
+咿	ji	
 闐	dien	
 轆	luh	
 坍	tan	
@@ -4022,7 +4022,7 @@ use_preset_vocabulary: true
 噎	jeh	
 圃	bu	
 霑	zhiem	
-蛇	i	10%
+蛇	ji	10%
 兒	ngi	1%
 孚	fu	
 醺	hyn	
@@ -4052,7 +4052,7 @@ use_preset_vocabulary: true
 殆	dai	
 睢	hyi	
 睢	sui	
-佚	ih	
+佚	jih	
 篋	kieh	
 璽	sr	
 蛻	tuoi	
@@ -4067,7 +4067,7 @@ use_preset_vocabulary: true
 誒	hi	
 磺	huang	
 甥	sheng	
-揖	ih	
+揖	jih	
 扉	fei	
 娠	shin	
 佯	jang	
@@ -4077,7 +4077,7 @@ use_preset_vocabulary: true
 癟	bieh	
 梟	gieu	
 蝨	sheh	
-攸	iu	
+攸	jiu	
 諳	am	
 囡	nan	
 濯	zhuoh	
@@ -4111,7 +4111,7 @@ use_preset_vocabulary: true
 啶	ding	
 跤	kiau	
 隧	sui	
-鼬	iu	
+鼬	jiu	
 掂	diem	
 鎬	hau	
 糯	nuo	
@@ -4139,7 +4139,7 @@ use_preset_vocabulary: true
 邈	moh	
 伎	gi	
 卉	hui	
-悒	ih	
+悒	jih	
 蝠	fuh	
 瘠	zih	
 函	hiam	10%
@@ -4225,7 +4225,7 @@ use_preset_vocabulary: true
 嗷	ngau	
 湄	mei	
 芍	shioh	
-廕	im	
+廕	jim	
 嗲	dia	
 笞	chi	
 袂	mi	
@@ -4259,7 +4259,7 @@ use_preset_vocabulary: true
 欒	luon	
 嵊	shing	
 丞	ching	
-槌	chui	
+槌	chyi	
 猾	huah	
 拎	ling	
 祟	sui	
@@ -4285,7 +4285,7 @@ use_preset_vocabulary: true
 踝	hua	
 詆	di	
 佣	yung	
-疣	iu	
+疣	jiu	
 詛	zhu	
 櫚	ly	
 榭	sie	
@@ -4293,7 +4293,7 @@ use_preset_vocabulary: true
 臊	sau	
 拚	bien	
 瞳	tung	
-柚	iu	
+柚	jiu	
 并	bing	
 砥	zhr	
 叄	cam	
@@ -4356,7 +4356,7 @@ use_preset_vocabulary: true
 蹉	co	
 瞰	kam	
 怦	peng	
-熠	ih	
+熠	jih	
 涪	feu	
 涸	hoh	
 愕	ngoh	
@@ -4399,8 +4399,8 @@ use_preset_vocabulary: true
 蠣	li	
 銑	sien	
 懺	cham	
-瀛	ing	
-魷	iu	
+瀛	jing	
+魷	jiu	
 咆	pau	
 鑫	him	
 攆	lien	
@@ -4412,14 +4412,14 @@ use_preset_vocabulary: true
 薹	tai	
 羲	hi	
 邃	sui	
-膺	ing	
+膺	jing	
 涮	shuan	
 調	zhiu	1%
 睽	kyi	
 顰	pin	
 絳	giang	
 骰	teu	
-鎢	u	
+鎢	wu	
 紂	zhiu	
 佼	giau	
 惴	zhui	
@@ -4438,7 +4438,7 @@ use_preset_vocabulary: true
 髯	riem	
 饃	mo	
 瘴	zhiang	
-漪	i	
+漪	ji	
 讎	chiu	
 赧	nan	
 唏	hi	
@@ -4448,7 +4448,7 @@ use_preset_vocabulary: true
 祺	ki	
 鉚	mau	
 哆	do	
-軼	ih	
+軼	jih	
 幌	huang	
 璞	poh	
 蒞	li	
@@ -4486,8 +4486,8 @@ use_preset_vocabulary: true
 襬	bai	
 滸	hu	
 蛟	giau	
-芮	rui	
-湮	in	
+芮	ryi	
+湮	jin	
 汨	mih	
 餒	nuoi	
 氾	fam	
@@ -4576,11 +4576,11 @@ use_preset_vocabulary: true
 蹴	cyuh	
 匍	pu	
 玖	giu	
-諉	nui	
+諉	nyi	
 泱	jang	
 卹	syh	
 撻	tah	
-囿	iu	
+囿	jiu	
 捌	bah	
 捫	men	
 咐	fu	
@@ -4636,7 +4636,7 @@ use_preset_vocabulary: true
 沮	zhu	
 捋	luoh	
 愴	chuang	
-翳	i	
+翳	ji	
 醴	li	
 鎔	yung	
 潯	sim	
@@ -4649,7 +4649,7 @@ use_preset_vocabulary: true
 佇	zhy	
 嶙	lin	
 种	chyung	
-呦	iu	
+呦	jiu	
 摒	bing	
 舫	fang	
 舫	bang	
@@ -4658,8 +4658,8 @@ use_preset_vocabulary: true
 瞑	mien	
 瞑	ming	
 糗	kiu	
-黝	i	
-黝	iu	
+黝	ji	
+黝	jiu	
 縹	pieu	
 橐	toh	
 絛	tau	
@@ -4673,7 +4673,7 @@ use_preset_vocabulary: true
 澧	li	
 鉸	giau	
 煜	yuh	
-煜	ih	
+煜	jih	
 鐸	doh	
 儡	luoi	
 謨	mu	
@@ -4753,8 +4753,7 @@ use_preset_vocabulary: true
 呻	shin	
 輒	zhieh	
 叵	po	
-彗	sui	
-彗	ui	
+彗	syi	
 諢	ngun	
 怏	jang	
 怩	ni	
@@ -4766,13 +4765,13 @@ use_preset_vocabulary: true
 杈	chai	
 霾	mai	
 莧	hian	
-薏	ih	
+薏	jih	
 誑	guang	
 孳	zr	
 楔	giah	
 楔	sieh	
 啕	tau	
-闈	ui	
+闈	wui	
 荏	rim	
 筮	shi	
 曇	tam	
@@ -4803,11 +4802,11 @@ use_preset_vocabulary: true
 淬	cuoi	
 淼	mieu	
 鼕	tung	
-莠	iu	
+莠	jiu	
 漕	cau	
 漕	zau	
 蓽	bih	
-罌	ing	
+罌	jing	
 罌	eng	
 吡	bi	
 荽	sui	
@@ -4834,7 +4833,7 @@ use_preset_vocabulary: true
 膘	pieu	
 膘	zieu	
 餛	hun	
-縊	i	
+縊	ji	
 潸	shan	
 笈	gih	
 笈	gieh	
@@ -4927,7 +4926,7 @@ use_preset_vocabulary: true
 髀	bi	
 痂	gia	
 殤	shiang	
-耒	lui	
+耒	lyi	
 耒	luoi	
 縝	chin	
 縝	zhin	
@@ -5005,7 +5004,7 @@ use_preset_vocabulary: true
 院	huon	1%
 撅	gyeh	
 舀	y	
-舀	iu	
+舀	jiu	
 舀	jeu	
 膕	gueh	
 隍	huang	
@@ -5053,13 +5052,13 @@ use_preset_vocabulary: true
 亹	men	
 亹	vei	
 鬟	huan	
-韙	ui	
+韙	wui	
 楨	zhing	
 侗	tung	
 鰥	guan	
 逅	heu	
 晷	gui	
-牖	iu	
+牖	jiu	
 礴	boh	
 溘	kai	
 溘	koh	
@@ -5074,7 +5073,7 @@ use_preset_vocabulary: true
 摶	tuon	
 摶	zhyen	
 剁	duo	
-食	i	1%
+食	ji	1%
 稗	bai	
 閶	chiang	
 濘	ning	
@@ -5088,11 +5087,11 @@ use_preset_vocabulary: true
 幗	guoi	
 幗	gueh	
 蛉	ling	
-曄	ih	
+曄	jih	
 曄	jeh	
 痼	gu	
 鯪	ling	
-挹	ih	
+挹	jih	
 杓	bieu	
 杓	pieu	
 杓	shioh	
@@ -5103,7 +5102,7 @@ use_preset_vocabulary: true
 邳	pei	
 覃	tam	
 笏	huh	
-羸	lui	
+羸	lyi	
 羿	ngi	
 鴇	bou	
 婪	lam	
@@ -5129,10 +5128,10 @@ use_preset_vocabulary: true
 恚	yi	
 紉	nin	
 竽	y	
-痍	i	
+痍	ji	
 準	zhyeh	1%
 薌	hiang	
-宥	iu	
+宥	jiu	
 莪	ngo	
 揩	kiai	
 腴	y	
@@ -5146,7 +5145,7 @@ use_preset_vocabulary: true
 抉	gyeh	
 抉	yeh	
 爻	hiau	
-蝟	ui	
+蝟	wui	
 脛	hing	
 遴	lin	
 嗑	hoh	
@@ -5159,8 +5158,8 @@ use_preset_vocabulary: true
 麾	hui	
 造	cau	1%
 豌	won	
-瑛	ing	
-翌	ih	
+瑛	jing	
+翌	jih	
 玷	diem	
 蚱	zheh	
 囈	ngi	
@@ -5168,7 +5167,7 @@ use_preset_vocabulary: true
 宸	chin	
 衊	mieh	
 屣	shr	
-飴	i	
+飴	ji	
 紇	heh	
 紇	hieh	
 瞋	chin	
@@ -5180,7 +5179,7 @@ use_preset_vocabulary: true
 斕	lan	
 蕁	tam	
 足	zy	1%
-胤	in	
+胤	jin	
 昱	yuh	
 喹	kyi	
 腆	tien	
@@ -5216,17 +5215,17 @@ use_preset_vocabulary: true
 鷓	zhie	
 腈	zing	
 旎	ni	
-佾	ih	
+佾	jih	
 率	shuh	1%
 滁	chy	
 蜉	feu	
 虯	kiu	
 治	chi	1%
-旖	i	
+旖	ji	
 魍	vang	
 鉉	hyen	
 饜	jem	
-苡	i	
+苡	ji	
 姣	hiau	
 姣	giau	
 屐	gih	
@@ -5241,7 +5240,7 @@ use_preset_vocabulary: true
 崴	wai	
 槿	gin	
 汩	yh	
-蜴	ih	
+蜴	jih	
 蜈	ngu	
 祉	chi	
 蹀	dieh	
@@ -5260,7 +5259,7 @@ use_preset_vocabulary: true
 淦	gam	
 珈	gia	
 軻	ko	
-嚶	ing	
+嚶	jing	
 嚶	eng	
 示	ki	1%
 諤	ngoh	
@@ -5283,7 +5282,7 @@ use_preset_vocabulary: true
 榷	gioh	
 窸	sih	
 鯽	zih	
-蚓	in	
+蚓	jin	
 盥	guon	
 俁	ngy	
 蛄	gu	
@@ -5328,8 +5327,8 @@ use_preset_vocabulary: true
 飩	tun	
 靨	jeh	
 淖	nau	
-啜	zhui	
-啜	shui	
+啜	zhyi	
+啜	shyi	
 啜	chyeh	
 啜	zhyeh	
 槭	zyuh	
@@ -5380,7 +5379,7 @@ use_preset_vocabulary: true
 髫	tieu	
 醪	lau	
 繇	jeu	
-繇	iu	
+繇	jiu	
 繇	zhiu	
 綦	ki	
 挎	ku	
@@ -5401,7 +5400,7 @@ use_preset_vocabulary: true
 杷	bai	
 杷	ba	
 筱	sieu	
-喑	im	
+喑	jim	
 喑	am	
 獐	zhiang	
 獃	ngai	
@@ -5412,7 +5411,7 @@ use_preset_vocabulary: true
 戕	go	
 戕	ciang	
 戕	zang	
-鮪	ui	
+鮪	wui	
 擯	bin	
 喙	hui	
 徜	chiang	
@@ -5432,7 +5431,7 @@ use_preset_vocabulary: true
 參	chem	1%
 參	sam	1%
 塋	yng	
-翊	ih	
+翊	jih	
 燾	tau	
 燾	dau	
 睚	ngiai	
@@ -5495,9 +5494,9 @@ use_preset_vocabulary: true
 碭	tang	
 碭	dang	
 畹	yen	
-猗	i	
+猗	ji	
 擷	hieh	
-鄔	u	
+鄔	wu	
 鄔	y	
 篳	bih	
 鏖	au	
@@ -5547,9 +5546,9 @@ use_preset_vocabulary: true
 咭	hih	
 咭	kiah	
 儐	bin	
-痿	ui	
+痿	wui	
 痿	rui	
-嶧	ih	
+嶧	jih	
 掉	noh	1%
 痊	cyen	
 諡	shr	
@@ -5557,7 +5556,7 @@ use_preset_vocabulary: true
 媲	pi	
 鈿	tien	
 鈿	dien	
-射	ih	1%
+射	jih	1%
 譭	hui	
 雩	y	
 雩	hy	
@@ -5597,7 +5596,7 @@ use_preset_vocabulary: true
 獷	gueng	
 醍	ti	
 揄	y	
-揄	iu	
+揄	jiu	
 揄	teu	
 揄	deu	
 邐	li	
@@ -5638,7 +5637,7 @@ use_preset_vocabulary: true
 厂	han	
 糅	niu	
 濂	liem	
-眙	i	
+眙	ji	
 眙	chi	
 蓓	boi	
 愎	bih	
@@ -5701,14 +5700,14 @@ use_preset_vocabulary: true
 嬗	shien	
 褚	zhy	
 褚	chy	
-蓊	ung	
-夤	in	
+蓊	wung	
+夤	jin	
 醐	hu	
 噦	huoi	
 噦	yeh	
 贄	zhr	
 摭	zhih	
-枘	rui	
+枘	ryi	
 磣	chem	
 欷	hi	
 豢	huan	
@@ -5720,7 +5719,7 @@ use_preset_vocabulary: true
 闃	kyh	
 穰	riang	
 儺	no	
-窨	im	
+窨	jim	
 甾	zhr	
 懣	men	
 懣	mon	
@@ -5809,8 +5808,8 @@ use_preset_vocabulary: true
 沆	hang	
 鷯	lieu	
 溏	tang	
-嬴	ing	
-蚴	iu	
+嬴	jing	
+蚴	jiu	
 蕞	zuoi	
 瀍	chien	
 蜊	li	
@@ -5821,7 +5820,7 @@ use_preset_vocabulary: true
 皴	cyn	
 鸝	li	
 甯	ning	
-噫	i	
+噫	ji	
 噫	jai	
 傯	zung	
 膻	dan	
@@ -5830,7 +5829,7 @@ use_preset_vocabulary: true
 閑	hian	
 鰍	ciu	
 椽	chyen	
-氤	in	
+氤	jin	
 禊	hi	
 趺	fu	
 杲	gau	
@@ -5867,8 +5866,8 @@ use_preset_vocabulary: true
 孛	beh	
 剮	gua	
 搵	yn	
-搵	un	
-搵	uh	
+搵	wun	
+搵	wuh	
 珥	r	
 倀	chiang	
 倀	zheng	
@@ -5904,10 +5903,10 @@ use_preset_vocabulary: true
 聿	yh	
 頎	ki	
 鏇	syen	
-郢	ing	
+郢	jing	
 嵬	nguoi	
 珉	min	
-蚰	iu	
+蚰	jiu	
 畚	ben	
 紕	pi	
 砝	goh	
@@ -5943,7 +5942,7 @@ use_preset_vocabulary: true
 篁	huang	
 詈	li	
 汧	kien	
-楹	ing	
+楹	jing	
 坩	kam	
 綹	liu	
 檣	ciang	
@@ -6026,7 +6025,7 @@ use_preset_vocabulary: true
 酲	ching	
 嘽	tan	
 嘽	chien	
-膃	uh	
+膃	wuh	
 篙	gau	
 莽	mu	10%
 莽	meu	10%
@@ -6035,7 +6034,7 @@ use_preset_vocabulary: true
 苴	cha	
 薜	bi	
 薜	beh	
-懟	zhui	
+懟	zhyi	
 戔	can	
 蟶	ching	
 圮	bei	
@@ -6063,7 +6062,7 @@ use_preset_vocabulary: true
 峴	hien	
 妲	dah	
 罟	gu	
-詒	i	
+詒	ji	
 詒	dai	
 骺	heu	
 沏	cieh	
@@ -6128,7 +6127,7 @@ use_preset_vocabulary: true
 揎	syen	
 怛	dan	
 怛	dah	
-瓔	ing	
+瓔	jing	
 彧	yuh	
 簋	gui	
 篪	chi	
@@ -6150,7 +6149,7 @@ use_preset_vocabulary: true
 腌	jeh	
 搦	noh	
 搦	neh	
-葳	ui	
+葳	wui	
 掛	guai	1%
 楮	chy	
 楮	du	
@@ -6182,7 +6181,7 @@ use_preset_vocabulary: true
 嫠	li	
 黐	li	
 黐	chi	
-犄	i	
+犄	ji	
 瀨	lai	
 鸕	lu	
 毿	sam	
@@ -6207,7 +6206,7 @@ use_preset_vocabulary: true
 栝	guoh	
 衹	zhr	
 衹	ki	
-賸	ing	
+賸	jing	
 賸	shing	
 筧	gien	
 驤	siang	
@@ -6218,7 +6217,7 @@ use_preset_vocabulary: true
 艿	ring	
 騶	zheu	
 哚	duo	
-煒	ui	
+煒	wui	
 郟	giah	
 硬	ngeng	1%
 酐	gan	
@@ -6239,7 +6238,7 @@ use_preset_vocabulary: true
 穠	nyung	
 穠	ryung	
 苄	bien	
-靉	i	
+靉	ji	
 靉	ai	
 葭	gia	
 昕	hin	
@@ -6257,11 +6256,11 @@ use_preset_vocabulary: true
 鱖	gyeh	
 纈	hieh	
 抻	shin	
-逶	ui	
+逶	wui	
 頊	ngyuh	
 頊	hyuh	
 鯢	ngi	
-吲	in	
+吲	jin	
 涌	yung	
 髕	bin	
 槨	guoh	
@@ -6308,7 +6307,7 @@ use_preset_vocabulary: true
 仡	hih	
 仡	ngih	
 櫪	lih	
-猷	iu	
+猷	jiu	
 鶿	cr	
 鶿	zr	
 笫	zhr	
@@ -6321,7 +6320,7 @@ use_preset_vocabulary: true
 麂	gi	
 矍	guoh	
 鈹	pei	
-黟	i	
+黟	ji	
 頇	han	
 頇	ngan	
 頇	ngoh	
@@ -6360,7 +6359,7 @@ use_preset_vocabulary: true
 摞	luo	
 緙	keh	
 嚳	kuh	
-洇	in	
+洇	jin	
 鈀	ba	
 葑	fung	
 偈	gi	
@@ -6384,11 +6383,11 @@ use_preset_vocabulary: true
 猊	ngi	
 覘	chiem	
 蛺	gieh	
-鎚	chui	
+鎚	chyi	
 鎚	duoi	
-鎚	zhui	
+鎚	zhyi	
 逖	tih	
-釔	ih	
+釔	jih	
 櫬	chen	
 毖	bei	
 鴯	r	
@@ -6398,7 +6397,7 @@ use_preset_vocabulary: true
 鍪	meu	
 跣	sien	
 溲	sheu	
-幃	ui	
+幃	wui	
 眾	zhyung	
 桫	so	
 鴰	guoh	
@@ -6428,7 +6427,7 @@ use_preset_vocabulary: true
 芟	sham	
 鯖	zhing	
 鯖	cing	
-鯖	ing	
+鯖	jing	
 禛	zhin	
 酡	to	
 茈	cr	
@@ -6437,7 +6436,7 @@ use_preset_vocabulary: true
 埵	duo	
 殢	ti	
 殢	hi	
-堙	in	
+堙	jin	
 鼙	pi	
 饊	san	
 靳	gin	
@@ -6454,7 +6453,7 @@ use_preset_vocabulary: true
 鰣	chr	
 砦	zhai	
 狍	pau	
-洧	ui	
+洧	wui	
 笊	zhau	
 輞	vang	
 媸	chr	
@@ -6466,7 +6465,7 @@ use_preset_vocabulary: true
 憷	chu	
 媼	au	
 鏊	ngau	
-烟	in	
+烟	jin	
 烟	jen	
 襞	bih	
 櫝	duh	
@@ -6475,7 +6474,7 @@ use_preset_vocabulary: true
 蒡	bang	
 籩	bien	
 埭	dai	
-蝣	iu	
+蝣	jiu	
 縑	giem	
 蜢	meng	
 脘	guon	
@@ -6486,7 +6485,7 @@ use_preset_vocabulary: true
 莨	lang	
 裾	gy	
 洳	ry	
-肄	i	
+肄	ji	
 豇	giang	
 輜	chr	
 輜	zhr	
@@ -6506,7 +6505,7 @@ use_preset_vocabulary: true
 坫	zhim	
 坫	diem	
 蹼	buh	
-懮	iu	
+懮	jiu	
 婧	zing	
 轢	lah	
 轢	loh	
@@ -6521,7 +6520,7 @@ use_preset_vocabulary: true
 鯰	niem	
 佺	cyen	
 暘	jang	
-銥	i	
+銥	ji	
 借	zih	1%
 罣	hua	
 罣	gua	
@@ -6588,7 +6587,7 @@ use_preset_vocabulary: true
 侉	o	
 畛	zhin	
 喝	jai	1%
-誄	lui	
+誄	lyi	
 憍	gieu	
 鄠	hu	
 郿	mei	
@@ -6603,7 +6602,7 @@ use_preset_vocabulary: true
 忝	tiem	
 餄	giah	
 柝	toh	
-癭	ing	
+癭	jing	
 琮	cung	
 曚	mung	
 鐃	nau	
@@ -6642,7 +6641,7 @@ use_preset_vocabulary: true
 鼉	to	
 鄜	fu	
 鄜	luh	
-鐿	i	
+鐿	ji	
 丶	zhy	
 蠆	chai	
 磲	ky	
@@ -6661,7 +6660,7 @@ use_preset_vocabulary: true
 艟	zhuang	
 晏	an	10%
 嬖	bi	
-埸	ih	
+埸	jih	
 肫	zhyn	
 菹	zhu	
 檗	beh	
@@ -6672,7 +6671,7 @@ use_preset_vocabulary: true
 顒	ngyung	
 零	lien	1%
 蒻	rioh	
-霪	im	
+霪	jim	
 聹	ning	
 般	pon	1%
 僨	fen	
@@ -6765,7 +6764,7 @@ use_preset_vocabulary: true
 袼	loh	
 袼	goh	
 繒	cing	
-羑	iu	
+羑	jiu	
 壙	kuang	
 剄	ging	
 阼	zu	
@@ -6774,7 +6773,7 @@ use_preset_vocabulary: true
 啖	dam	
 嘅	kai	
 蠃	luo	
-媵	ing	
+媵	jing	
 媵	shing	
 釩	fam	
 紼	feh	
@@ -6876,7 +6875,7 @@ use_preset_vocabulary: true
 谷	luh	1%
 嚄	hueh	
 繐	hyi	
-繐	sui	
+繐	syi	
 鋏	gieh	
 貊	meh	
 檮	tau	
@@ -6912,18 +6911,18 @@ use_preset_vocabulary: true
 澌	sr	
 焯	zhioh	
 鼩	ky	
-蕕	iu	
+蕕	jiu	
 鍀	deh	
 濊	huoi	
 濊	woi	
-濊	ui	
+濊	wui	
 濊	huoh	
 亼	zih	
-侑	iu	
+侑	jiu	
 蜾	guo	
 翥	zhy	
 柜	gy	
-癔	ih	
+癔	jih	
 賻	fu	
 鯇	huan	
 鼷	hi	
@@ -6940,7 +6939,7 @@ use_preset_vocabulary: true
 涳	kiang	
 伾	pei	
 抆	ven	
-璟	ing	
+璟	jing	
 璟	gyng	
 梃	ding	
 緗	siang	
@@ -6956,7 +6955,7 @@ use_preset_vocabulary: true
 抃	bien	
 諶	chim	
 旻	min	
-丿	i	
+丿	ji	
 丿	pieh	
 碡	duh	
 碡	zhyuh	
@@ -6965,7 +6964,7 @@ use_preset_vocabulary: true
 巿	feh	
 磑	nguoi	
 璿	syen	
-茚	in	
+茚	jin	
 毹	shu	
 璺	ven	
 襻	pan	
@@ -6996,7 +6995,7 @@ use_preset_vocabulary: true
 譫	dah	
 悃	kun	
 縕	yn	
-縕	un	
+縕	wun	
 颭	zhiem	
 眵	zhr	
 眵	chr	
@@ -7012,8 +7011,8 @@ use_preset_vocabulary: true
 挑	dieu	1%
 宓	mih	
 洨	hiau	
-囗	ui	
-毳	cui	
+囗	wui	
+毳	cyi	
 毳	chuai	
 吽	heu	
 鴂	gyeh	
@@ -7057,9 +7056,9 @@ use_preset_vocabulary: true
 覯	geu	
 袷	giah	
 袷	gieh	
-滃	ung	
+滃	wung	
 謚	shr	
-謚	ih	
+謚	jih	
 醅	poi	
 醅	feu	
 廛	chien	
@@ -7071,7 +7070,7 @@ use_preset_vocabulary: true
 媞	ti	
 媞	shr	
 媞	di	
-為	ui	
+為	wui	
 蠵	yi	
 蠵	hyi	
 樾	yeh	
@@ -7089,7 +7088,7 @@ use_preset_vocabulary: true
 芣	feu	
 鱀	gi	
 丄	shiang	
-弌	ih	
+弌	jih	
 嶓	bo	
 躔	chien	
 廑	gin	
@@ -7104,7 +7103,7 @@ use_preset_vocabulary: true
 貓	mieu	1%
 植	shih	1%
 鉨	ni	
-洩	i	
+洩	ji	
 丅	hia	
 詿	gua	
 詿	hua	
@@ -7118,7 +7117,7 @@ use_preset_vocabulary: true
 拔	fah	1%
 拔	boh	1%
 喈	giai	
-禕	i	
+禕	ji	
 殑	king	
 殑	ging	
 澍	shy	
@@ -7147,17 +7146,17 @@ use_preset_vocabulary: true
 鍶	sr	
 鉭	tan	
 鉭	dan	
-迻	i	
+迻	ji	
 踰	y	
 驎	lin	
 彡	siem	
 彡	sham	
-鍏	ui	
+鍏	wui	
 肟	oh	
 艅	y	
 鞥	oh	
 汙	y	
-汙	u	
+汙	wu	
 艴	feh	
 艴	beh	
 趣	ceu	1%
@@ -7166,7 +7165,7 @@ use_preset_vocabulary: true
 厙	shie	
 褌	gun	
 厶	sr	
-廴	in	
+廴	jin	
 拼	beng	1%
 潛	ziem	1%
 埒	lyeh	
@@ -7177,17 +7176,17 @@ use_preset_vocabulary: true
 冂	mih	
 髁	kuo	
 髁	kua	
-荑	i	
+荑	ji	
 荑	ti	
 玗	y	
 鎛	boh	
 鐨	fei	
 婹	jeu	
-瘖	im	
+瘖	jim	
 薆	ai	
 惛	hun	
 洎	gi	
-嗌	ih	
+嗌	jih	
 袴	ku	
 喓	jeu	
 歟	y	
@@ -7205,8 +7204,8 @@ use_preset_vocabulary: true
 啐	cuoi	
 啐	suoi	
 啐	zyh	
-轀	un	
-鋈	uh	
+轀	wun	
+鋈	wuh	
 徯	hi	
 緈	hing	
 窆	biem	
@@ -7229,7 +7228,7 @@ use_preset_vocabulary: true
 瀹	joh	
 汏	dai	
 汏	tah	
-潙	ui	
+潙	wui	
 潙	gui	
 葽	jeu	
 鵒	yuh	
@@ -7247,7 +7246,7 @@ use_preset_vocabulary: true
 諼	hyen	
 惢	zui	
 惢	suo	
-銦	in	
+銦	jin	
 濄	wo	
 塒	shr	
 塒	chr	
@@ -7296,13 +7295,13 @@ use_preset_vocabulary: true
 踣	peu	
 踣	beh	
 杺	sim	
-銪	iu	
+銪	jiu	
 魴	fang	
 蟟	lieu	
 螭	chi	
 犎	fung	
 勱	mai	
-僾	i	
+僾	ji	
 僾	ai	
 蝀	dung	
 湫	ciu	
@@ -7312,7 +7311,7 @@ use_preset_vocabulary: true
 尢	wang	
 芰	gi	
 肴	hiau	
-睪	ih	
+睪	jih	
 睪	nieh	
 鈑	ban	
 銠	lau	
@@ -7329,11 +7328,11 @@ use_preset_vocabulary: true
 芐	hia	
 坭	ni	
 乂	ngi	
-鎰	ih	
+鎰	jih	
 詘	kyh	
 顬	ry	
 軆	ti	
-韞	un	
+韞	wun	
 韞	yn	
 夨	lieh	
 夨	zheh	
@@ -7345,7 +7344,7 @@ use_preset_vocabulary: true
 夂	zhi	
 閉	bieh	1%
 鱟	heu	
-鱟	uh	
+鱟	wuh	
 慴	zhieh	
 慴	dieh	
 嵞	tu	
@@ -7385,7 +7384,7 @@ use_preset_vocabulary: true
 閌	kang	
 莈	meh	
 袢	fan	
-潿	ui	
+潿	wui	
 厴	jem	
 鮨	ki	
 黿	ngyen	
@@ -7408,18 +7407,18 @@ use_preset_vocabulary: true
 迨	dai	
 褔	feu	
 鍒	riu	
-欹	i	
+欹	ji	
 鈰	shr	
 卷	kyen	1%
 粗	zu	1%
 鋨	ngo	
-浥	ih	
+浥	jih	
 浥	jah	
 浥	jeh	
 芄	huon	
 鉺	r	
 珓	giau	
-琇	iu	
+琇	jiu	
 琇	siu	
 廌	zhi	
 廌	zhai	
@@ -7460,7 +7459,7 @@ use_preset_vocabulary: true
 鐹	guo	
 佸	guoh	
 佸	huoh	
-纍	lui	
+纍	lyi	
 泖	mau	
 璩	ky	
 郤	kih	
@@ -7501,7 +7500,7 @@ use_preset_vocabulary: true
 洏	r	
 猓	guo	
 鍩	noh	
-縋	zhui	
+縋	zhyi	
 驄	cung	
 誐	ngo	
 鼐	nai	
@@ -7513,7 +7512,7 @@ use_preset_vocabulary: true
 鈄	teu	
 璘	lin	
 愍	min	
-卣	iu	
+卣	jiu	
 獻	so	1%
 潷	bih	
 幬	chiu	
@@ -7646,7 +7645,7 @@ use_preset_vocabulary: true
 藎	sin	
 轗	kam	
 鵟	kuang	
-瓮	ung	
+瓮	wung	
 粞	si	
 粞	sai	
 氚	chyen	
@@ -7662,13 +7661,13 @@ use_preset_vocabulary: true
 埝	nieh	
 殳	chy	
 譕	vu	
-圯	i	
+圯	ji	
 薅	hau	
 殛	gih	
 骱	hoh	
 骱	giah	
 埽	sau	
-懌	ih	
+懌	jih	
 兂	zhem	
 牐	zhah	
 瘛	hi	
@@ -7681,7 +7680,7 @@ use_preset_vocabulary: true
 繻	sy	
 銩	diu	
 酕	mou	
-迆	i	
+迆	ji	
 蔠	zhyung	
 馞	beh	
 馞	peh	
@@ -7925,7 +7924,7 @@ use_preset_vocabulary: true
 簉	cheu	
 櫧	zhy	
 映	ang	1%
-脃	cui	
+脃	cyi	
 滏	fu	
 琯	guon	
 琯	gun	
@@ -8000,14 +7999,14 @@ use_preset_vocabulary: true
 禠	sr	
 芧	zhy	
 槸	ngi	
-瘞	i	
+瘞	ji	
 愺	cau	
 楁	heh	
 躐	lieh	
 堖	nau	
 呴	heu	
 呴	hy	
-愔	im	
+愔	jim	
 軹	zhr	
 菢	bou	
 紟	gim	
@@ -8078,7 +8077,7 @@ use_preset_vocabulary: true
 墲	pu	
 渢	fung	
 謌	go	
-虆	lui	
+虆	lyi	
 馹	rih	
 厗	ti	
 戻	ti	
@@ -8086,7 +8085,7 @@ use_preset_vocabulary: true
 暀	huang	
 繲	giai	
 鐔	sim	
-鐔	im	
+鐔	jim	
 鐔	tam	
 讌	jen	
 鎄	ai	
@@ -8101,7 +8100,7 @@ use_preset_vocabulary: true
 氏	zing	1%
 汸	fang	
 乀	feh	
-蕝	zui	
+蕝	zyi	
 蕝	zyeh	
 儁	zyn	
 剺	li	
@@ -8129,7 +8128,7 @@ use_preset_vocabulary: true
 勬	gyen	
 丠	kiu	
 囷	kyn	
-攖	ing	
+攖	jing	
 嗻	zhie	
 蝂	ban	
 畐	fuh	
@@ -8144,7 +8143,7 @@ use_preset_vocabulary: true
 窞	dam	
 攉	huoh	
 鷇	keu	
-斿	iu	
+斿	jiu	
 眚	sheng	
 熷	zeng	
 嵫	zr	
@@ -8202,7 +8201,7 @@ use_preset_vocabulary: true
 嚜	mei	
 渼	mei	
 蔢	po	
-呭	i	
+呭	ji	
 哫	zyuh	
 沈	zhim	1%
 豿	geu	
@@ -8238,7 +8237,7 @@ use_preset_vocabulary: true
 螣	deh	
 撞	chuang	1%
 囮	nguo	
-囮	iu	
+囮	jiu	
 僟	gi	
 剞	gi	
 醲	nyung	
@@ -8254,8 +8253,8 @@ use_preset_vocabulary: true
 倲	dung	
 潕	vu	
 傜	jeu	
-譩	i	
-姷	iu	
+譩	ji	
+姷	jiu	
 佌	cr	
 佴	r	
 佴	nai	
@@ -8287,7 +8286,7 @@ use_preset_vocabulary: true
 榎	gia	
 鞚	kung	
 厸	miem	
-扆	i	
+扆	ji	
 縶	zhih	
 隩	au	
 隩	yuh	
@@ -8297,7 +8296,7 @@ use_preset_vocabulary: true
 鶤	gun	
 鶤	yn	
 膫	lieu	
-汭	rui	
+汭	ryi	
 濇	sheh	
 鯗	siang	
 齰	zha	
@@ -8318,7 +8317,7 @@ use_preset_vocabulary: true
 耬	leu	
 屺	ki	
 脡	ting	
-渶	ing	
+渶	jing	
 幘	zheh	
 迮	zoh	
 迮	zheh	
@@ -8342,7 +8341,7 @@ use_preset_vocabulary: true
 髎	lieu	
 墁	mon	
 姳	ming	
-纋	iu	
+纋	jiu	
 犳	zhioh	
 昪	bien	
 寎	bing	
@@ -8359,11 +8358,11 @@ use_preset_vocabulary: true
 吂	mang	
 蕅	ngeu	
 蒛	kyeh	
-儰	ui	
-汚	u	
+儰	wui	
+汚	wu	
 廨	giai	
 鍚	jang	
-攺	i	
+攺	ji	
 攺	sr	
 喠	zhyung	
 喠	chyung	
@@ -8377,7 +8376,7 @@ use_preset_vocabulary: true
 婠	won	
 婠	guon	
 婠	wah	
-暐	ui	
+暐	wui	
 厓	ngiai	
 侘	cha	
 偭	mien	
@@ -8405,7 +8404,7 @@ use_preset_vocabulary: true
 懰	liu	
 慜	min	
 蒨	cien	
-圬	u	
+圬	wu	
 塩	jem	
 弇	gam	
 弇	jem	
@@ -8440,7 +8439,7 @@ use_preset_vocabulary: true
 翛	sieu	
 翛	shyuh	
 枼	jeh	
-絪	in	
+絪	jin	
 樼	zhen	
 垎	heh	
 滉	huang	
@@ -8448,8 +8447,8 @@ use_preset_vocabulary: true
 墠	shien	
 蔌	suh	
 馼	ven	
-沋	iu	
-鮋	iu	
+沋	jiu	
+鮋	jiu	
 鮋	chiu	
 鉒	zhy	
 纘	zuon	
@@ -8504,10 +8503,10 @@ use_preset_vocabulary: true
 棬	kyen	
 鉮	shin	
 睟	sui	
-韡	ui	
+韡	wui	
 齞	ngien	
-殪	i	
-瀷	ih	
+殪	ji	
+瀷	jih	
 瀷	chih	
 贁	bai	
 蕆	chien	
@@ -8520,7 +8519,7 @@ use_preset_vocabulary: true
 殸	king	
 皵	cioh	
 皵	cih	
-匜	i	
+匜	ji	
 瑝	hueng	
 濈	zheh	
 侎	mi	
@@ -8599,9 +8598,9 @@ use_preset_vocabulary: true
 穜	tung	
 穜	chyung	
 犽	ngia	
-戭	in	
+戭	jin	
 戭	jen	
-墿	ih	
+墿	jih	
 偛	zhah	
 癈	fei	
 拫	hen	
@@ -8615,7 +8614,7 @@ use_preset_vocabulary: true
 釃	shr	
 釃	shu	
 箰	syn	
-洿	u	
+洿	wu	
 洿	hu	
 憙	hi	
 潪	zhi	
@@ -8648,8 +8647,8 @@ use_preset_vocabulary: true
 愪	yn	
 殠	hiu	
 殠	chiu	
-腄	zhui	
-腄	iu	
+腄	zhyi	
+腄	jiu	
 垤	dieh	
 荄	giai	
 荄	gai	
@@ -8667,7 +8666,7 @@ use_preset_vocabulary: true
 闅	ven	
 蓒	hien	
 嬩	y	
-薀	un	
+薀	wun	
 薀	yn	
 番	pon	1%
 番	bo	1%
@@ -8690,7 +8689,7 @@ use_preset_vocabulary: true
 鱻	sien	
 吅	hyen	
 吅	syung	
-衪	i	
+衪	ji	
 斜	je	1%
 菗	chiu	
 菤	gyen	
@@ -8718,12 +8717,12 @@ use_preset_vocabulary: true
 爝	zioh	
 儱	lung	
 儱	lyung	
-虵	i	
+虵	ji	
 虵	chie	
 虵	je	
 簷	jem	
 伿	zhr	
-伿	i	
+伿	ji	
 劓	ngi	
 鮊	beh	
 鞮	di	
@@ -8735,9 +8734,9 @@ use_preset_vocabulary: true
 蘫	ham	
 姺	shen	
 姺	sien	
-涗	shui	
+涗	shyi	
 炵	tung	
-簃	i	
+簃	ji	
 簃	chi	
 酎	zhiu	
 犦	buh	
@@ -8769,7 +8768,7 @@ use_preset_vocabulary: true
 埏	shien	
 嬮	jem	
 嬮	jeh	
-楢	iu	
+楢	jiu	
 楢	chieu	
 悆	y	
 騀	ngo	
@@ -8882,7 +8881,7 @@ use_preset_vocabulary: true
 槦	yung	
 狨	ryung	
 訷	shin	
-螉	ung	
+螉	wung	
 瞴	vu	
 歖	hi	
 諴	hiam	
@@ -8961,7 +8960,7 @@ use_preset_vocabulary: true
 嚱	hi	
 膷	hiang	
 焮	hin	
-靷	in	
+靷	jin	
 串	guan	1%
 浡	beh	
 狚	dan	
@@ -8992,7 +8991,7 @@ use_preset_vocabulary: true
 賥	sui	
 銕	ti	
 銕	tieh	
-蔿	ui	
+蔿	wui	
 鰕	hia	
 萭	y	
 萭	gy	
@@ -9010,7 +9009,7 @@ use_preset_vocabulary: true
 莕	heng	
 鉶	hing	
 訞	jeu	
-栯	iu	
+栯	jiu	
 栯	yuh	
 囃	cah	
 尰	shyung	
@@ -9033,7 +9032,7 @@ use_preset_vocabulary: true
 祏	shih	
 逜	ngu	
 吷	hyeh	
-熼	ih	
+熼	jih	
 茡	zr	
 釭	gung	
 釭	giang	
@@ -9161,9 +9160,9 @@ use_preset_vocabulary: true
 愯	syung	
 俹	ja	
 巘	ngien	
-冘	iu	
-冘	im	
-禋	in	
+冘	jiu	
+冘	jim	
+禋	jin	
 怭	bih	
 欓	dang	
 臦	guang	
@@ -9230,8 +9229,8 @@ use_preset_vocabulary: true
 盻	ngi	
 盻	hi	
 斁	du	
-斁	ih	
-鈏	in	
+斁	jih	
+鈏	jin	
 怞	chiu	
 妘	yn	
 紵	zhy	
@@ -9253,7 +9252,7 @@ use_preset_vocabulary: true
 鯹	sing	
 醑	sy	
 霙	jang	
-霙	ing	
+霙	jing	
 帀	zah	
 齍	zr	
 辬	ban	
@@ -9278,7 +9277,7 @@ use_preset_vocabulary: true
 嶮	ngiem	
 軺	jeu	
 軺	chieu	
-曀	i	
+曀	ji	
 沄	yn	
 沄	hun	
 迊	zah	
@@ -9297,7 +9296,7 @@ use_preset_vocabulary: true
 鵐	vu	
 珨	hiah	
 繏	syen	
-泆	ih	
+泆	jih	
 泆	dieh	
 恉	zhr	
 熊	yung	1%
@@ -9322,7 +9321,7 @@ use_preset_vocabulary: true
 楅	bih	
 襜	chiem	
 朿	cr	
-膬	cui	
+膬	cyi	
 膬	cyeh	
 剟	duoh	
 剟	zhyeh	
@@ -9339,8 +9338,8 @@ use_preset_vocabulary: true
 儗	hai	
 詷	dung	
 葖	duh	
-裀	in	
-駰	in	
+裀	jin	
+駰	jin	
 抧	zhr	
 抧	zhai	
 瑒	jang	
@@ -9365,7 +9364,7 @@ use_preset_vocabulary: true
 絧	tung	
 絧	dung	
 仸	jeu	
-欥	ih	
+欥	jih	
 欥	yh	
 銉	yh	
 黰	jan	
@@ -9386,7 +9385,7 @@ use_preset_vocabulary: true
 晥	huon	
 珸	ngu	
 琂	ngien	
-櫌	iu	
+櫌	jiu	
 蔕	di	
 柉	fam	
 遦	guon	
@@ -9420,7 +9419,7 @@ use_preset_vocabulary: true
 暅	hyen	
 喦	rieh	
 夵	jem	
-輶	iu	
+輶	jiu	
 齵	ngy	
 齵	ngeu	
 奡	ngau	
@@ -9443,10 +9442,10 @@ use_preset_vocabulary: true
 焌	cyh	
 潚	sieu	
 潚	syuh	
-媦	ui	
+媦	wui	
 鑴	hyi	
 殈	hyh	
-賏	ing	
+賏	jing	
 鄘	yung	
 跐	cr	
 跐	zr	
@@ -9455,7 +9454,7 @@ use_preset_vocabulary: true
 棐	fei	
 冎	gua	
 烠	huoi	
-璄	ing	
+璄	jing	
 敹	lieu	
 羉	luon	
 汒	mang	
@@ -9468,7 +9467,7 @@ use_preset_vocabulary: true
 鍎	duh	
 蒠	sih	
 鵷	yen	
-娷	zhui	
+娷	zhyi	
 虸	zr	
 躦	co	
 猋	bieu	
@@ -9490,7 +9489,7 @@ use_preset_vocabulary: true
 昚	shin	
 圣	kuh	
 趯	tih	
-繶	ih	
+繶	jih	
 濙	yng	
 敔	ngy	
 貐	y	
@@ -9505,9 +9504,9 @@ use_preset_vocabulary: true
 蒤	tu	
 彺	wang	
 渷	yen	
-潩	i	
-潩	ih	
-暎	ing	
+潩	ji	
+潩	jih	
+暎	jing	
 艾	ngi	1%
 堛	pih	
 瓟	pau	
@@ -9570,7 +9569,7 @@ use_preset_vocabulary: true
 鉕	po	
 芿	ring	
 筭	suon	
-鎓	ung	
+鎓	wung	
 鈭	zr	
 鈭	cr	
 咬	giau	1%
@@ -9600,7 +9599,7 @@ use_preset_vocabulary: true
 秏	hau	
 鶡	hoh	
 臗	kun	
-儽	lui	
+儽	lyi	
 儽	luoi	
 朸	lih	
 朸	leh	
@@ -9611,7 +9610,7 @@ use_preset_vocabulary: true
 燂	tam	
 燂	ciem	
 褖	tuon	
-痏	ui	
+痏	wui	
 粯	hian	
 蚿	hien	
 蕷	y	
@@ -9656,7 +9655,7 @@ use_preset_vocabulary: true
 袨	hyen	
 燏	yh	
 嚲	do	
-婔	ui	
+婔	wui	
 咍	hai	
 箶	hu	
 弜	ki	
@@ -9671,12 +9670,12 @@ use_preset_vocabulary: true
 眊	moh	
 嫳	pieh	
 嫳	bieh	
-嗢	uh	
+嗢	wuh	
 嗢	wah	
 蟓	siang	
 蟓	shiang	
 嶪	ngieh	
-狖	iu	
+狖	jiu	
 蚖	ngyen	
 蚖	nguon	
 抮	hien	
@@ -9700,8 +9699,8 @@ use_preset_vocabulary: true
 瓨	hiang	
 諝	sy	
 甗	ngien	
-廙	i	
-廙	ih	
+廙	ji	
+廙	jih	
 喅	yuh	
 墺	au	
 墺	yuh	
@@ -9721,7 +9720,7 @@ use_preset_vocabulary: true
 舚	tiem	
 脁	chieu	
 焄	hyn	
-珆	i	
+珆	ji	
 娡	zhr	
 牓	bang	
 薡	ding	
@@ -9730,14 +9729,14 @@ use_preset_vocabulary: true
 欬	jai	
 欬	kai	
 扐	leh	
-藟	lui	
+藟	lyi	
 媣	gam	
 媣	riem	
 窊	wa	
 媉	joh	
 敻	hyen	
 敻	hyng	
-栘	i	
+栘	ji	
 栘	chi	
 圁	ngin	
 粖	moh	
@@ -9782,7 +9781,7 @@ use_preset_vocabulary: true
 彣	ven	
 嶨	kioh	
 嶨	hioh	
-枻	i	
+枻	ji	
 伃	y	
 諸	zhie	1%
 賲	bou	
@@ -9799,7 +9798,7 @@ use_preset_vocabulary: true
 籧	ky	
 縢	teng	
 侹	ting	
-嵔	ui	
+嵔	wui	
 嵔	woi	
 僩	hian	
 僩	gian	
@@ -9825,7 +9824,7 @@ use_preset_vocabulary: true
 椌	kung	
 椌	kiang	
 樉	shuang	
-諲	in	
+諲	jin	
 璪	zau	
 倧	zung	
 墊	dieh	1%
@@ -9861,7 +9860,7 @@ use_preset_vocabulary: true
 肶	pi	
 肸	hih	
 埶	ngi	
-袣	i	
+袣	ji	
 玐	bah	
 鞁	bei	
 狴	bi	
@@ -9951,7 +9950,7 @@ use_preset_vocabulary: true
 潬	dan	
 眮	tung	
 眮	dung	
-榲	uh	
+榲	wuh	
 睎	hi	
 睲	sing	
 嬃	sy	
@@ -9970,8 +9969,8 @@ use_preset_vocabulary: true
 墭	shing	
 蕬	sr	
 飥	toh	
-瑦	u	
-唈	ih	
+瑦	wu	
+唈	jih	
 唈	oh	
 眹	zhin	
 汥	zhr	
@@ -10034,7 +10033,7 @@ use_preset_vocabulary: true
 郚	ngu	
 珝	hy	
 媱	jeu	
-陻	in	
+陻	jin	
 葾	yen	
 晣	zhieh	
 扭	zhiu	1%
@@ -10048,7 +10047,7 @@ use_preset_vocabulary: true
 偐	ngian	
 棪	jem	
 怮	jeu	
-怮	iu	
+怮	jiu	
 偡	zham	
 儃	tan	
 儃	chien	
@@ -10065,7 +10064,7 @@ use_preset_vocabulary: true
 錍	bi	
 錍	pi	
 羴	hian	
-裞	shui	
+裞	shyi	
 裞	tuoi	
 鴹	jang	
 蚏	yeh	
@@ -10098,7 +10097,7 @@ use_preset_vocabulary: true
 鮷	ti	
 謵	chieh	
 宐	ngi	
-麀	iu	
+麀	jiu	
 唹	y	
 堬	y	
 佂	zhing	
@@ -10130,7 +10129,7 @@ use_preset_vocabulary: true
 疨	hia	
 鷃	jan	
 螘	ngi	
-闉	in	
+闉	jin	
 砡	ngyuh	
 萮	y	
 謣	y	
@@ -10199,9 +10198,9 @@ use_preset_vocabulary: true
 盨	shu	
 揜	am	
 揜	jem	
-亄	i	
-亄	ih	
-訧	iu	
+亄	ji	
+亄	jih	
+訧	jiu	
 澦	y	
 騵	ngyen	
 矰	zeng	
@@ -10261,7 +10260,7 @@ use_preset_vocabulary: true
 琄	hyen	
 碞	ngim	
 碞	ngiam	
-苢	i	
+苢	ji	
 猵	bien	
 猵	bin	
 莐	chim	
@@ -10281,7 +10280,7 @@ use_preset_vocabulary: true
 絍	rim	
 頣	shin	
 厃	zhiem	
-緭	ui	
+緭	wui	
 毊	hieu	
 毊	kieu	
 愶	hieh	
@@ -10311,14 +10310,14 @@ use_preset_vocabulary: true
 錪	dien	
 巇	hi	
 枲	sr	
-饐	i	
-鳦	ih	
+饐	ji	
+鳦	jih	
 羱	ngyen	
 羱	nguon	
 瘲	zyung	
 窻	chuang	
 袚	boh	
-櫘	sui	
+櫘	syi	
 崌	gy	
 摖	ci	
 睘	kyng	
@@ -10329,7 +10328,7 @@ use_preset_vocabulary: true
 嬜	him	
 嬜	am	
 嬜	ham	
-浟	iu	
+浟	jiu	
 邘	y	
 皻	zha	
 筯	zhy	
@@ -10394,17 +10393,17 @@ use_preset_vocabulary: true
 龏	joh	
 唂	guh	
 臈	lah	
-欙	lui	
+欙	lyi	
 尞	lieu	
 犘	ma	
 媌	mau	
 婍	ki	
 鍫	cieu	
 瑈	riu	
-帨	cui	
-帨	shui	
+帨	cyi	
+帨	shyi	
 憟	syuh	
-湋	ui	
+湋	wui	
 灥	syn	
 灥	chyen	
 紃	chyn	
@@ -10429,7 +10428,7 @@ use_preset_vocabulary: true
 惎	gi	
 筈	guoh	
 筈	kuoh	
-禷	lui	
+禷	lyi	
 爧	ling	
 鬐	ki	
 挐	ny	
@@ -10441,7 +10440,7 @@ use_preset_vocabulary: true
 忳	tun	
 勨	jang	
 勨	siang	
-媖	ing	
+媖	jing	
 箊	y	
 杬	ngyen	
 攤	nan	1%
@@ -10461,7 +10460,7 @@ use_preset_vocabulary: true
 虩	hih	
 虩	sheh	
 彇	sieu	
-噟	ing	
+噟	jing	
 鸑	ngioh	
 懪	boh	
 鋋	jen	
@@ -10478,9 +10477,9 @@ use_preset_vocabulary: true
 柅	ni	
 暜	ti	
 矟	shuoh	
-寪	ui	
+寪	wui	
 嵃	ngien	
-歅	in	
+歅	jin	
 獟	ngieu	
 鮡	tieu	
 鮡	zhieu	
@@ -10509,7 +10508,7 @@ use_preset_vocabulary: true
 觿	hyi	
 齛	sieh	
 鋞	hing	
-酏	i	
+酏	ji	
 淔	chih	
 蹱	zhyung	
 蹱	chyung	
@@ -10530,8 +10529,8 @@ use_preset_vocabulary: true
 楉	rioh	
 閷	shai	
 忥	hi	
-劮	ih	
-繄	i	
+劮	jih	
+繄	ji	
 鐕	zam	
 箒	zhiu	
 謷	ngiau	
@@ -10544,13 +10543,13 @@ use_preset_vocabulary: true
 絻	mon	
 絻	mien	
 絻	ven	
-箷	i	
+箷	ji	
 聤	ting	
 纕	siang	
 蟰	sieu	
 蟰	syuh	
 姎	ang	
-芅	ih	
+芅	jih	
 檛	zhua	
 祡	chai	
 琩	chiang	
@@ -10585,7 +10584,7 @@ use_preset_vocabulary: true
 帾	du	
 醻	chiu	
 妋	fu	
-妋	iu	
+妋	jiu	
 甶	feh	
 胕	fu	
 贑	gam	
@@ -10619,7 +10618,7 @@ use_preset_vocabulary: true
 斅	hiau	
 匽	jen	
 鎐	zuh	
-褮	ing	
+褮	jing	
 褮	eng	
 褮	yng	
 褮	hyng	
@@ -10645,9 +10644,9 @@ use_preset_vocabulary: true
 渻	sing	
 漙	tuon	
 盌	won	
-鄬	ui	
-靾	i	
-卂	zhui	
+鄬	wui	
+靾	ji	
+卂	zhyi	
 卂	sin	
 嚚	ngin	
 篽	ngy	
@@ -10733,9 +10732,9 @@ use_preset_vocabulary: true
 撱	yi	
 玁	hiem	
 邤	hin	
-佁	i	
+佁	ji	
 佁	chi	
-杙	ih	
+杙	jih	
 讋	zhieh	
 帪	zhin	
 瘃	zhyuh	
@@ -10754,8 +10753,8 @@ use_preset_vocabulary: true
 緛	ryen	
 蕸	hia	
 懕	jem	
-沶	i	
-鷖	i	
+沶	ji	
+鷖	ji	
 狺	ngin	
 堉	yuh	
 柤	zha	
@@ -10779,9 +10778,9 @@ use_preset_vocabulary: true
 肧	poi	
 肧	feu	
 叴	kiu	
-裛	ih	
+裛	jih	
 裛	jeh	
-蟫	im	
+蟫	jim	
 蟫	tam	
 茋	zhr	
 噣	zhiu	
@@ -10822,7 +10821,7 @@ use_preset_vocabulary: true
 媟	sieh	
 屧	sieh	
 劜	jah	
-螠	i	
+螠	ji	
 鰅	ngyung	
 鰅	ngy	
 僝	chan	
@@ -10848,7 +10847,7 @@ use_preset_vocabulary: true
 矖	shr	
 垶	syng	
 銊	syh	
-耰	iu	
+耰	jiu	
 匨	zang	
 珇	zu	
 揙	bien	
@@ -10872,15 +10871,15 @@ use_preset_vocabulary: true
 牣	rin	
 澨	shi	
 蹏	ti	
-鯈	iu	
+鯈	jiu	
 鯈	chiu	
 迿	syn	
 迿	hyen	
-蛜	i	
-嫈	ing	
+蛜	ji	
+嫈	jing	
 嫈	eng	
 嫈	yng	
-瀀	iu	
+瀀	jiu	
 戉	yeh	
 鎡	zr	
 蜂	pung	1%
@@ -10915,7 +10914,7 @@ use_preset_vocabulary: true
 詗	hyng	
 鵻	zhui	
 鵻	syn	
-䲁	ui	
+䲁	wui	
 襃	bou	
 柀	bei	
 憯	cam	
@@ -10940,8 +10939,8 @@ use_preset_vocabulary: true
 獫	liem	
 獫	hiem	
 穘	hiau	
-澺	ih	
-槱	iu	
+澺	jih	
+槱	jiu	
 旐	zhieu	
 嵀	zhy	
 鉼	bing	
@@ -10961,12 +10960,12 @@ use_preset_vocabulary: true
 魶	nah	
 杄	cien	
 焞	chyn	
-軎	ui	
-軎	sui	
+軎	wui	
+軎	syi	
 鍡	woi	
 眻	jang	
-嫕	i	
-弬	i	
+嫕	ji	
+弬	ji	
 篜	zhing	
 疕	pi	
 疕	bi	
@@ -10988,7 +10987,7 @@ use_preset_vocabulary: true
 谺	hia	
 盷	hyen	
 虤	ngian	
-螾	in	
+螾	jin	
 碪	zhim	
 痓	chr	
 輴	chyn	
@@ -11008,7 +11007,7 @@ use_preset_vocabulary: true
 嚂	lam	
 爁	lam	
 爁	liem	
-絫	lui	
+絫	lyi	
 緜	mien	
 槈	neu	
 洴	ping	
@@ -11021,9 +11020,9 @@ use_preset_vocabulary: true
 踼	tang	
 踼	dang	
 騊	tau	
-犚	ui	
+犚	wui	
 鵶	ja	
-泄	i	1%
+泄	ji	1%
 榜	peng	1%
 榜	beng	1%
 犫	chiu	
@@ -11093,7 +11092,7 @@ use_preset_vocabulary: true
 瑴	guh	
 瑴	gioh	
 猍	lai	
-厽	lui	
+厽	lyi	
 憭	lieu	
 溣	lun	
 魮	pi	
@@ -11135,8 +11134,8 @@ use_preset_vocabulary: true
 尠	sien	
 尠	sy	
 塤	hyen	
-垔	in	
-秞	iu	
+垔	jin	
+秞	jiu	
 脀	zhing	
 艖	co	
 艖	cha	
@@ -11163,14 +11162,14 @@ use_preset_vocabulary: true
 莦	shau	
 鷫	syuh	
 怗	tieh	
-扡	i	
+扡	ji	
 臽	kam	
 臽	hiam	
 衺	sie	
 鴳	jan	
 澲	ngieh	
 垽	ngin	
-泑	iu	
+泑	jiu	
 埻	zhyn	
 埻	guoh	
 埻	gueh	
@@ -11183,7 +11182,7 @@ use_preset_vocabulary: true
 嫢	hien	
 玒	gung	
 玒	giang	
-淴	uh	
+淴	wuh	
 婽	gia	
 椵	gia	
 狤	gih	
@@ -11203,8 +11202,8 @@ use_preset_vocabulary: true
 檈	syen	
 鞙	gyen	
 鞙	hyen	
-黓	ih	
-罃	ing	
+黓	jih	
+罃	jing	
 罃	eng	
 礿	joh	
 渽	zai	
@@ -11237,7 +11236,7 @@ use_preset_vocabulary: true
 憸	hiem	
 熁	hieh	
 鍱	jeh	
-肊	ih	
+肊	jih	
 喿	sau	
 犆	zhih	
 鰦	zr	
@@ -11333,10 +11332,10 @@ use_preset_vocabulary: true
 抈	ngyeh	
 襗	doh	
 襗	zheh	
-襗	ih	
+襗	jih	
 粻	zhiang	
 侲	zhin	
-隌	im	
+隌	jim	
 隌	am	
 柲	bei	
 柲	bih	
@@ -11375,7 +11374,7 @@ use_preset_vocabulary: true
 醩	zau	
 磳	cheng	
 磳	zeng	
-畷	zhui	
+畷	zhyi	
 畷	zhyeh	
 朳	bah	
 箯	pien	
@@ -11412,9 +11411,9 @@ use_preset_vocabulary: true
 揳	sieh	
 滫	siu	
 諿	cih	
-拸	i	
+拸	ji	
 豷	hui	
-豷	i	
+豷	ji	
 矠	zheh	
 矠	cheh	
 袾	zhy	
@@ -11458,12 +11457,12 @@ use_preset_vocabulary: true
 鞳	tah	
 啺	tang	
 摥	tang	
-煟	ui	
+煟	wui	
 芛	yi	
 芛	yh	
 蝘	jen	
-宧	i	
-帟	ih	
+宧	ji	
+帟	jih	
 橧	cing	
 橧	zeng	
 痮	zhiang	
@@ -11525,7 +11524,7 @@ use_preset_vocabulary: true
 噧	tah	
 鞢	sieh	
 鸉	jang	
-齸	ih	
+齸	jih	
 慂	yung	
 抎	yn	
 籠	lyung	1%
@@ -11538,7 +11537,7 @@ use_preset_vocabulary: true
 熯	han	
 熯	rien	
 軤	hu	
-蘤	ui	
+蘤	wui	
 檝	zih	
 檝	zieh	
 圿	giah	
@@ -11560,7 +11559,7 @@ use_preset_vocabulary: true
 渰	jem	
 溔	jeu	
 媀	ngy	
-盓	u	
+盓	wu	
 逳	yuh	
 猨	yen	
 猼	boh	
@@ -11570,7 +11569,7 @@ use_preset_vocabulary: true
 磹	diem	
 堮	ngoh	
 榥	huang	
-獩	ui	
+獩	wui	
 衱	gieh	
 牼	keng	
 牼	heng	
@@ -11607,7 +11606,7 @@ use_preset_vocabulary: true
 焅	kuh	
 爌	huang	
 爌	kuang	
-蘱	lui	
+蘱	lyi	
 蘱	luoi	
 猫	mieu	
 渿	nai	
@@ -11621,14 +11620,14 @@ use_preset_vocabulary: true
 娗	ting	
 娗	ding	
 覹	mei	
-讆	ui	
+讆	wui	
 埳	kam	
 黫	jan	
 榣	jeu	
-嫛	i	
+嫛	ji	
 輑	kyn	
 輑	ngyn	
-酭	iu	
+酭	jiu	
 偫	zhi	
 巵	zhr	
 佃	tien	10%
@@ -11677,8 +11676,8 @@ use_preset_vocabulary: true
 訮	hien	
 俋	zhih	
 寱	ngi	
-毉	i	
-霠	im	
+毉	ji	
+霠	jim	
 扜	hy	
 扜	y	
 罇	zun	
@@ -11688,7 +11687,7 @@ use_preset_vocabulary: true
 啚	tu	
 啚	bei	
 髆	boh	
-肔	i	
+肔	ji	
 孮	cung	
 暰	cyung	
 鴠	dan	
@@ -11718,15 +11717,15 @@ use_preset_vocabulary: true
 潫	wan	
 潫	yen	
 餧	nuoi	
-餧	ui	
+餧	wui	
 鄦	hy	
 煠	jeh	
 煠	chieh	
 煠	zhah	
-櫽	in	
+櫽	jin	
 絑	zhy	
 癌	ngiam	1%
-餲	i	
+餲	ji	
 餲	jai	
 餲	hoh	
 餲	oh	
@@ -11793,7 +11792,7 @@ use_preset_vocabulary: true
 赩	hih	
 藇	y	
 藇	sy	
-嚘	iu	
+嚘	jiu	
 妜	yeh	
 黦	yh	
 黦	yeh	
@@ -11801,7 +11800,7 @@ use_preset_vocabulary: true
 鱄	zhyen	
 魬	ban	
 豖	chyuh	
-抌	iu	
+抌	jiu	
 抌	y	
 抌	dam	
 輀	r	
@@ -11825,7 +11824,7 @@ use_preset_vocabulary: true
 猲	kieh	
 窔	jeu	
 牰	siu	
-牰	iu	
+牰	jiu	
 爚	joh	
 爚	shioh	
 挋	zhin	
@@ -11858,9 +11857,9 @@ use_preset_vocabulary: true
 肨	pang	
 嬱	ciem	
 侻	tuoh	
-蜼	lui	
+蜼	lyi	
 蜼	yi	
-蜼	iu	
+蜼	jiu	
 碔	vu	
 謑	hi	
 謑	hiai	
@@ -11871,8 +11870,8 @@ use_preset_vocabulary: true
 稰	sy	
 圔	jah	
 猒	jem	
-圛	ih	
-貤	i	
+圛	jih	
+貤	ji	
 貤	shr	
 隃	sy	
 隃	y	
@@ -11914,8 +11913,8 @@ use_preset_vocabulary: true
 袥	toh	
 菵	vang	
 鶱	hien	
-扅	i	
-鸎	ing	
+扅	ji	
+鸎	jing	
 鸎	eng	
 澭	yung	
 琖	zhan	
@@ -11953,7 +11952,7 @@ use_preset_vocabulary: true
 檿	jem	
 郔	jen	
 鎁	je	
-溵	in	
+溵	jin	
 肙	yen	
 泜	zhr	
 泜	chi	
@@ -11973,7 +11972,7 @@ use_preset_vocabulary: true
 跭	hiang	
 漹	jen	
 莚	jen	
-枍	i	
+枍	ji	
 禴	joh	
 雥	zah	
 鉊	zhieu	
@@ -12047,7 +12046,7 @@ use_preset_vocabulary: true
 腒	ky	
 炓	lieu	
 霿	mung	
-獶	iu	
+獶	jiu	
 瑲	ciang	
 鑋	king	
 蕠	ry	
@@ -12123,10 +12122,10 @@ use_preset_vocabulary: true
 扊	jem	
 狿	jen	
 乑	ngim	
-懚	in	
+懚	jin	
 淢	yh	
 淢	hyh	
-硾	zhui	
+硾	zhyi	
 摘	tih	1%
 汃	bin	
 汃	pah	
@@ -12165,7 +12164,7 @@ use_preset_vocabulary: true
 揥	di	
 揥	ti	
 揥	chi	
-韾	im	
+韾	jim	
 陓	y	
 慞	zhiang	
 皽	zhieu	
@@ -12203,11 +12202,11 @@ use_preset_vocabulary: true
 黇	tiem	
 赥	hih	
 騽	sih	
-騽	ih	
+騽	jih	
 蠁	hiang	
 涍	hiau	
 囐	zah	
-丣	iu	
+丣	jiu	
 鸅	zheh	
 佋	chieu	
 佋	shieu	
@@ -12237,7 +12236,7 @@ use_preset_vocabulary: true
 剸	tuon	
 剸	zhyen	
 揋	woi	
-覣	ui	
+覣	wui	
 歊	hieu	
 歊	huh	
 滽	yung	
@@ -12255,7 +12254,7 @@ use_preset_vocabulary: true
 犉	ryn	
 覴	ching	
 碽	gung	
-薉	ui	
+薉	wui	
 懅	ky	
 梮	gyuh	
 姰	syn	
@@ -12348,7 +12347,7 @@ use_preset_vocabulary: true
 陾	neu	
 嵤	hueng	
 雭	sheh	
-洍	i	
+洍	ji	
 洍	sr	
 橝	tam	
 橝	diem	
@@ -12360,9 +12359,9 @@ use_preset_vocabulary: true
 圠	jah	
 爓	siem	
 爓	jem	
-撎	i	
+撎	ji	
 贀	yi	
-釴	ih	
+釴	jih	
 榞	ngyen	
 鬷	zung	
 磝	ngiau	
@@ -12384,7 +12383,7 @@ use_preset_vocabulary: true
 偘	kan	
 欴	lang	
 栛	li	
-隶	i	
+隶	ji	
 鳨	lih	
 懱	mieh	
 蚔	ki	
@@ -12398,7 +12397,7 @@ use_preset_vocabulary: true
 瞯	hian	
 撨	sieu	
 撨	cieu	
-韺	ing	
+韺	jing	
 陼	zhy	
 篹	suon	
 菆	cuon	
@@ -12429,8 +12428,8 @@ use_preset_vocabulary: true
 惸	kyng	
 焪	kyung	
 鬙	seng	
-鰞	u	
-檼	in	
+鰞	wu	
+檼	jin	
 奫	yn	
 蹔	zam	
 暲	zhiang	
@@ -12463,14 +12462,14 @@ use_preset_vocabulary: true
 恮	zhuan	
 謟	tau	
 稌	tu	
-詑	i	
+詑	ji	
 詑	hi	
 詑	to	
 詑	tuo	
 詑	do	
 焸	gu	
 纅	joh	
-浧	ing	
+浧	jing	
 鸒	y	
 趮	zau	
 鬇	cheng	
@@ -12502,10 +12501,10 @@ use_preset_vocabulary: true
 隚	tang	
 鼵	duh	
 韈	vah	
-楲	ui	
+楲	wui	
 恔	gieu	
-燡	ih	
-濥	in	
+燡	jih	
+濥	jin	
 緎	yh	
 緎	hyh	
 衼	zhr	
@@ -12537,15 +12536,15 @@ use_preset_vocabulary: true
 魫	shim	
 幍	tau	
 齩	ngiau	
-廮	ing	
-摬	ing	
+廮	jing	
+摬	jing	
 錥	yuh	
 荺	yn	
 餫	hun	
 餫	yn	
 溭	zheh	
 譄	zeng	
-膇	zhui	
+膇	zhyi	
 艑	bien	
 笧	cheh	
 隥	deng	
@@ -12571,10 +12570,10 @@ use_preset_vocabulary: true
 瑹	shy	
 骽	tuoi	
 碢	tuo	
-愇	ui	
+愇	wui	
 碨	wai	
 碨	woi	
-剭	uh	
+剭	wuh	
 壏	ham	
 壏	hiam	
 喣	hy	
@@ -12583,11 +12582,10 @@ use_preset_vocabulary: true
 遉	ching	
 郮	zhiu	
 斸	zhyuh	
-醊	zhui	
+醊	zhyi	
 醊	zhyeh	
 吵	mieu	1%
 猈	bai	
-猈	pai	
 拺	cheh	
 拺	sheh	
 慛	cuoi	
@@ -12606,7 +12604,7 @@ use_preset_vocabulary: true
 摎	giau	
 摎	liu	
 轠	luoi	
-轠	lui	
+轠	lyi	
 埿	ni	
 埿	bam	
 掜	nai	
@@ -12615,22 +12613,22 @@ use_preset_vocabulary: true
 襛	ryung	
 搙	nuh	
 搙	noh	
-韢	cui	
+韢	cyi	
 篿	tuon	
 篿	zhyen	
 軘	tun	
-媁	ui	
+媁	wui	
 枮	zhim	
 枮	siem	
 奊	hieh	
 裺	jem	
 礏	ngoh	
-敡	i	
-詍	i	
+敡	ji	
+詍	ji	
 歈	y	
 歈	teu	
 瓡	zhih	
-腏	zhui	
+腏	zhyi	
 腏	duoh	
 腏	zhyeh	
 鮩	beng	
@@ -12685,10 +12683,10 @@ use_preset_vocabulary: true
 磍	kiah	
 韱	siem	
 熽	sieu	
-勩	i	
-酳	in	
-巊	ing	
-庮	iu	
+勩	ji	
+酳	jin	
+巊	jing	
+庮	jiu	
 霱	yh	
 跀	ngyeh	
 曬	shr	1%
@@ -12728,15 +12726,15 @@ use_preset_vocabulary: true
 阤	shr	
 葨	woi	
 腛	joh	
-歍	u	
+歍	wu	
 娙	nging	
 娙	ngeng	
 娙	hing	
 箵	sing	
 饁	jeh	
 驜	ngieh	
-檍	ih	
-朄	in	
+檍	jih	
+朄	jin	
 蝯	yen	
 璅	zau	
 鑕	zhih	
@@ -12784,7 +12782,7 @@ use_preset_vocabulary: true
 鉝	lih	
 繗	lin	
 孴	ngi	
-孴	ih	
+孴	jih	
 莥	niu	
 縏	pon	
 竮	ping	
@@ -12800,7 +12798,7 @@ use_preset_vocabulary: true
 鼞	tang	
 顖	sin	
 迱	to	
-籝	ing	
+籝	jing	
 欝	yh	
 龜	giu	1%
 辨	ban	1%
@@ -12831,7 +12829,7 @@ use_preset_vocabulary: true
 胘	hien	
 胘	hyen	
 蕦	sy	
-洕	in	
+洕	jin	
 懥	zhr	
 懥	zhi	
 瀄	zheh	
@@ -12861,7 +12859,7 @@ use_preset_vocabulary: true
 縰	shr	
 屟	sieh	
 贙	hyen	
-謻	i	
+謻	ji	
 泿	ngin	
 泿	ngen	
 扵	y	
@@ -12904,8 +12902,8 @@ use_preset_vocabulary: true
 蠉	hyen	
 咉	ang	
 倄	hiau	
-倄	ui	
-峓	i	
+倄	wui	
+峓	ji	
 韗	yn	
 韗	hyen	
 瑵	zhau	
@@ -12930,7 +12928,7 @@ use_preset_vocabulary: true
 艐	zung	
 艐	giai	
 艐	ko	
-磈	ui	
+磈	wui	
 磈	kuoi	
 藈	kyi	
 蠦	lu	
@@ -12951,7 +12949,7 @@ use_preset_vocabulary: true
 嶑	siang	
 胷	hyung	
 齖	ngia	
-楧	ing	
+楧	jing	
 灒	zan	
 溠	co	
 溠	zha	
@@ -12984,7 +12982,7 @@ use_preset_vocabulary: true
 絩	tieu	
 齅	hiu	
 賉	syh	
-偯	i	
+偯	ji	
 溨	cai	
 寁	zam	
 寁	zieh	
@@ -13013,11 +13011,11 @@ use_preset_vocabulary: true
 顡	zhuai	
 瘒	ngun	
 姭	hiem	
-殹	i	
-鷧	i	
+殹	ji	
+鷧	ji	
 搸	zhen	
-甀	chui	
-甀	zhui	
+甀	chyi	
+甀	zhyi	
 蓻	zih	
 袌	pou	
 竲	cing	
@@ -13051,16 +13049,16 @@ use_preset_vocabulary: true
 貣	teh	
 貣	deh	
 悿	tiem	
-轊	ui	
-轊	sui	
+轊	wui	
+轊	syi	
 豏	hiam	
 醶	lam	
 醶	cham	
 顩	zhim	
 顩	ngiem	
 餆	jeu	
-婣	in	
-肬	iu	
+婣	jin	
+肬	jiu	
 甎	zhyen	
 繳	zhioh	1%
 繳	heh	1%
@@ -13094,7 +13092,7 @@ use_preset_vocabulary: true
 鵀	nim	
 穨	tuoi	
 鰋	jen	
-蘡	ing	
+蘡	jing	
 邧	ngyen	
 泧	yeh	
 泧	hyeh	
@@ -13125,7 +13123,7 @@ use_preset_vocabulary: true
 菬	zhieu	
 腬	riu	
 腬	niu	
-蜹	rui	
+蜹	ryi	
 蜹	yi	
 蜹	ryeh	
 駪	shen	
@@ -13140,7 +13138,7 @@ use_preset_vocabulary: true
 鷕	jeu	
 羛	hi	
 羛	ngi	
-偤	iu	
+偤	jiu	
 魳	zah	
 竚	zhy	
 糉	zung	
@@ -13180,14 +13178,14 @@ use_preset_vocabulary: true
 諹	jang	
 顤	ngieu	
 顤	hiau	
-杝	i	
+杝	ji	
 杝	zhi	
-蛦	i	
+蛦	ji	
 罭	yh	
 噮	yen	
 馵	zhy	
-笍	rui	
-笍	zhui	
+笍	ryi	
+笍	zhyi	
 叉	chai	1%
 蔜	ngau	
 罼	bih	
@@ -13230,7 +13228,7 @@ use_preset_vocabulary: true
 趬	kieu	
 淟	tien	
 渨	woi	
-暡	ung	
+暡	wung	
 饎	chr	
 騱	hi	
 枔	sim	
@@ -13238,7 +13236,7 @@ use_preset_vocabulary: true
 覎	jem	
 崵	jang	
 崵	dang	
-譍	ing	
+譍	jing	
 鄅	y	
 蝝	yen	
 喗	ngyn	
@@ -13324,10 +13322,10 @@ use_preset_vocabulary: true
 淊	ham	
 淊	jem	
 坱	ang	
-媐	i	
+媐	ji	
 媐	hi	
 檥	ngi	
-鄾	iu	
+鄾	jiu	
 駗	lin	
 駗	zhin	
 妐	zhyung	
@@ -13340,8 +13338,8 @@ use_preset_vocabulary: true
 盰	gan	
 昒	veh	
 昒	huh	
-槥	ui	
-槥	sui	
+槥	wui	
+槥	syi	
 蝍	zih	
 蝍	zieh	
 睊	gyen	
@@ -13359,7 +13357,7 @@ use_preset_vocabulary: true
 恌	jeu	
 黈	teu	
 贎	van	
-罻	ui	
+罻	wui	
 腲	woi	
 稧	hi	
 獢	hieu	
@@ -13409,7 +13407,7 @@ use_preset_vocabulary: true
 虉	ngih	
 鱦	ching	
 鱦	meng	
-鱦	ing	
+鱦	jing	
 鱦	shing	
 焴	yuh	
 鱡	zeh	
@@ -13428,7 +13426,7 @@ use_preset_vocabulary: true
 鱎	gieu	
 穅	kang	
 筤	lang	
-樏	lui	
+樏	lyi	
 簶	luh	
 鸏	mung	
 鄍	ming	
@@ -13440,7 +13438,7 @@ use_preset_vocabulary: true
 痑	to	
 痑	do	
 峗	ngui	
-塕	ung	
+塕	wung	
 舝	hiah	
 齘	hiai	
 軮	ang	
@@ -13452,6 +13450,8 @@ use_preset_vocabulary: true
 蔁	zhiang	
 罬	zhyeh	
 罬	gyeh	
+彗	sui	10%
+彗	wui	10%
 韛	bai	
 蛃	bing	
 轐	buh	
@@ -13462,7 +13462,7 @@ use_preset_vocabulary: true
 睴	hun	
 睴	gun	
 霩	huoh	
-蘽	lui	
+蘽	lyi	
 凓	lih	
 蘦	ling	
 樐	lu	
@@ -13514,13 +13514,13 @@ use_preset_vocabulary: true
 駞	to	
 踒	wo	
 潝	hih	
-蘙	i	
+蘙	ji	
 虶	y	
 籰	woh	
 樴	zhih	
 樴	deh	
 鑮	boh	
-袲	i	
+袲	ji	
 袲	chr	
 袲	no	
 虘	co	
@@ -13530,7 +13530,7 @@ use_preset_vocabulary: true
 懻	gi	
 麏	gyn	
 浨	lam	
-垒	lui	
+垒	lyi	
 蟍	li	
 鵹	li	
 戼	mau	
@@ -13546,15 +13546,15 @@ use_preset_vocabulary: true
 睕	yen	
 睕	won	
 睕	woh	
-螱	ui	
-骫	ui	
+螱	wui	
+骫	wui	
 欀	siang	
 欀	riang	
 頨	hyen	
 頨	y	
 溒	yen	
 漐	chih	
-璏	ui	
+璏	wui	
 璏	zhi	
 璏	yeh	
 麆	zu	
@@ -13596,7 +13596,7 @@ use_preset_vocabulary: true
 韅	hien	
 膎	hiai	
 髤	hiu	
-膉	ih	
+膉	jih	
 褹	ngi	
 褹	nai	
 塣	zhing	
@@ -13628,8 +13628,8 @@ use_preset_vocabulary: true
 瞲	hyeh	
 曅	jeh	
 垼	yh	
-醷	i	
-醷	ih	
+醷	ji	
+醷	jih	
 檡	zheh	
 檡	shih	
 撜	zhing	
@@ -13642,7 +13642,7 @@ use_preset_vocabulary: true
 勽	bou	
 峬	bu	
 煁	chim	
-餟	zhui	
+餟	zhyi	
 餟	zhyeh	
 軩	dai	
 梑	dih	
@@ -13669,8 +13669,8 @@ use_preset_vocabulary: true
 壛	jem	
 黤	am	
 黤	jam	
-瞖	i	
-醳	ih	
+瞖	ji	
+醳	jih	
 裖	zhin	
 郰	zheu	
 糳	zoh	
@@ -13705,7 +13705,7 @@ use_preset_vocabulary: true
 嬥	zhuoh	
 尵	chuai	
 尵	tuoi	
-鰄	ui	
+鰄	wui	
 襑	sim	
 襑	tam	
 轙	ngi	
@@ -13721,7 +13721,7 @@ use_preset_vocabulary: true
 鄛	chau	
 鈂	chim	
 鈂	cim	
-顀	chui	
+顀	chyi	
 觕	cu	
 觕	zu	
 觕	chyuh	
@@ -13753,10 +13753,10 @@ use_preset_vocabulary: true
 痶	tien	
 妵	teu	
 琟	yi	
-隖	u	
+隖	wu	
 飁	sih	
-瓵	i	
-嶾	in	
+瓵	ji	
+嶾	jin	
 樝	zha	
 抍	shing	
 抍	zhing	
@@ -13788,7 +13788,7 @@ use_preset_vocabulary: true
 鰝	hoh	
 欮	gyeh	
 鬫	hiam	
-鸓	lui	
+鸓	lyi	
 熑	liem	
 塸	eu	
 憉	peng	
@@ -13806,7 +13806,7 @@ use_preset_vocabulary: true
 懀	wai	
 狋	ngi	
 狋	kyen	
-鶧	ing	
+鶧	jing	
 棜	y	
 噆	cam	
 噆	zah	
@@ -13835,7 +13835,7 @@ use_preset_vocabulary: true
 檖	sui	
 嫷	duo	
 嫷	tuo	
-隇	ui	
+隇	wui	
 恄	hih	
 犔	hi	
 緆	sih	
@@ -13867,10 +13867,10 @@ use_preset_vocabulary: true
 嶀	tu	
 挩	duoh	
 挩	tuoh	
-褽	ui	
+褽	wui	
 藖	hian	
 鶠	jen	
-黳	i	
+黳	ji	
 齫	kun	
 墇	zhiang	
 駤	zhi	
@@ -13910,13 +13910,13 @@ use_preset_vocabulary: true
 鼿	nguh	
 嬐	ngiem	
 駽	hyen	
-鮧	i	
+鮧	ji	
 鮧	ti	
 斦	ngin	
 覮	ping	
 羭	y	
 馧	yn	
-馧	uh	
+馧	wuh	
 饡	zan	
 薽	zhin	
 薽	gien	
@@ -13942,7 +13942,7 @@ use_preset_vocabulary: true
 顐	hun	
 顐	ngun	
 鱏	sim	
-鱏	im	
+鱏	jim	
 醼	jen	
 擪	jem	
 擪	jeh	
@@ -13982,7 +13982,7 @@ use_preset_vocabulary: true
 稴	liem	
 栙	hiang	
 蟂	gieu	
-梄	iu	
+梄	jiu	
 澞	ngy	
 稕	zhyn	
 噿	zui	
@@ -14033,11 +14033,11 @@ use_preset_vocabulary: true
 馲	toh	
 馲	zheh	
 珬	syh	
-譻	ing	
+譻	jing	
 譻	eng	
 泎	zheh	
-諈	zhui	
-錣	zhui	
+諈	zhyi	
+錣	zhyi	
 錣	zhuah	
 椔	zhr	
 鄑	zr	
@@ -14064,17 +14064,17 @@ use_preset_vocabulary: true
 蜤	sr	
 鱐	syuh	
 鐆	sui	
-殟	un	
-殟	uh	
+殟	wun	
+殟	wuh	
 焇	sieu	
 詾	hyung	
 燖	siem	
 礹	ngiam	
 礹	ngiem	
-羠	i	
+羠	ji	
 羠	sr	
-隿	ih	
-鼘	in	
+隿	jih	
+鼘	jin	
 鼘	yen	
 嬳	woh	
 鬵	sim	
@@ -14113,13 +14113,13 @@ use_preset_vocabulary: true
 胟	meu	
 閛	peng	
 磩	cih	
-陭	i	
+陭	ji	
 榺	shing	
 秲	zhi	
 秲	shr	
 噋	tun	
 噋	kuoh	
-鏏	sui	
+鏏	syi	
 梋	hyen	
 樳	sim	
 烑	jeu	
@@ -14159,7 +14159,7 @@ use_preset_vocabulary: true
 璖	ky	
 畽	tun	
 鞾	hye	
-桋	i	
+桋	ji	
 桋	ti	
 鶢	yen	
 翐	zhih	
@@ -14186,9 +14186,9 @@ use_preset_vocabulary: true
 鄎	sih	
 愋	hyen	
 櫩	jem	
-崺	i	
+崺	ji	
 瀴	ming	
-瀴	ing	
+瀴	jing	
 瀴	eng	
 厇	zheh	
 鏳	cheng	
@@ -14210,7 +14210,7 @@ use_preset_vocabulary: true
 櫼	sham	
 譑	gieu	
 譑	kieu	
-纝	lui	
+纝	lyi	
 獹	lu	
 幋	pon	
 嘺	kieu	
@@ -14266,7 +14266,7 @@ use_preset_vocabulary: true
 嵠	ki	
 婱	hien	
 嗂	jeu	
-欭	i	
+欭	ji	
 爩	yh	
 蒮	yuh	
 厏	zha	
@@ -14306,7 +14306,7 @@ use_preset_vocabulary: true
 奞	sin	
 奞	syn	
 訔	ngin	
-攍	ing	
+攍	jing	
 磒	yn	
 蚻	zhah	
 辴	chi	
@@ -14319,7 +14319,7 @@ use_preset_vocabulary: true
 膹	fen	
 櫰	huai	
 櫰	guoi	
-瓃	lui	
+瓃	lyi	
 瓃	luoi	
 頛	luoi	
 蛖	mang	
@@ -14330,12 +14330,12 @@ use_preset_vocabulary: true
 鬤	riang	
 鬤	neng	
 趒	tieu	
-扝	u	
+扝	wu	
 扝	ku	
 劕	zhih	
 絃	hyen	1%
 膗	chuai	
-竁	cui	
+竁	cyi	
 竁	chuai	
 竁	chyen	
 嶚	lieu	
@@ -14361,7 +14361,7 @@ use_preset_vocabulary: true
 踸	chim	
 媰	chu	
 荳	deu	
-鬌	chui	
+鬌	chyi	
 鬌	duo	
 匃	gai	
 匃	goh	
@@ -14378,11 +14378,11 @@ use_preset_vocabulary: true
 喢	chah	
 摍	shuh	
 鉵	tung	
-螐	u	
+螐	wu	
 礥	hien	
 讗	hyi	
 讗	gueh	
-梬	ing	
+梬	jing	
 樜	shy	
 樜	zhie	
 矪	zhiu	
@@ -14476,7 +14476,7 @@ use_preset_vocabulary: true
 駾	tuoi	
 烓	yi	
 烓	kyng	
-熭	ui	
+熭	wui	
 熭	yeh	
 椺	hih	
 螇	hi	
@@ -14510,11 +14510,11 @@ use_preset_vocabulary: true
 硹	syung	
 磄	tang	
 狘	hyeh	
-磤	in	
+磤	jin	
 儥	duh	
 儥	yuh	
 溳	yn	
-潭	im	1%
+潭	jim	1%
 邀	gieu	1%
 辡	bien	
 刱	chuang	
@@ -14570,7 +14570,7 @@ use_preset_vocabulary: true
 蕵	sun	
 鉖	tung	
 杔	zheh	
-觷	uh	
+觷	wuh	
 觷	ngioh	
 觷	hioh	
 餣	jeh	
@@ -14603,13 +14603,13 @@ use_preset_vocabulary: true
 柖	chieu	
 跾	shyuh	
 殐	suh	
-蜲	ui	
+蜲	wui	
 鼤	ven	
 輱	hiam	
 踃	sieu	
 樇	siu	
 詇	jang	
-詇	ing	
+詇	jing	
 闆	pan	1%
 瓝	boh	
 陙	chyn	
@@ -14638,11 +14638,11 @@ use_preset_vocabulary: true
 輎	shau	
 觢	shi	
 錽	vam	
-溩	u	
+溩	wu	
 鵗	hi	
 娎	hieu	
 娎	hieh	
-恞	i	
+恞	ji	
 傮	zau	
 鷷	zyn	
 鷷	cyn	
@@ -14683,17 +14683,17 @@ use_preset_vocabulary: true
 刡	min	
 醥	pieu	
 眑	jau	
-眑	iu	
+眑	jiu	
 筄	jeu	
-焲	ih	
+焲	jih	
 猌	ngin	
-娺	zhui	
+娺	zhyi	
 娺	zhuah	
 猣	zung	
 飶	bih	
 飶	bieh	
 鄵	cau	
-桘	chui	
+桘	chyi	
 韇	duh	
 蜬	ham	
 蜬	gam	
@@ -14714,9 +14714,9 @@ use_preset_vocabulary: true
 驨	hyi	
 僁	sih	
 僁	sieh	
-跇	i	
+跇	ji	
 跇	chi	
-甖	ing	
+甖	jing	
 甖	eng	
 裷	yen	
 裷	kyen	
@@ -14746,8 +14746,8 @@ use_preset_vocabulary: true
 矀	vei	
 矹	nguh	
 蘨	jeu	
-蘨	iu	
-痬	ih	
+蘨	jiu	
+痬	jih	
 嫸	zhien	
 襵	zhieh	
 骲	bau	
@@ -14789,9 +14789,9 @@ use_preset_vocabulary: true
 鶙	ti	
 隤	tuoi	
 猚	ngiai	
-猚	lui	
+猚	lyi	
 齴	ngien	
-巸	i	
+巸	ji	
 蒬	yen	
 磫	zyung	
 庱	ching	
@@ -14804,7 +14804,7 @@ use_preset_vocabulary: true
 邞	fu	
 峐	gai	
 觤	gui	
-釫	u	
+釫	wu	
 釫	hua	
 槉	zih	
 蜫	gun	
@@ -14847,7 +14847,7 @@ use_preset_vocabulary: true
 鄟	shyen	
 蝬	zung	
 摌	shan	
-眱	i	
+眱	ji	
 弴	dun	
 弴	dieu	
 獖	ben	
@@ -14860,8 +14860,8 @@ use_preset_vocabulary: true
 匉	peng	
 刞	cy	
 戃	tang	
-鴮	u	
-檹	i	
+鴮	wu	
+檹	ji	
 軄	zhih	
 顛	tien	1%
 玤	bang	
@@ -14882,7 +14882,7 @@ use_preset_vocabulary: true
 龤	hiai	
 臐	hyn	
 爗	jeh	
-熪	i	
+熪	ji	
 矺	toh	
 矺	zheh	
 矺	dah	
@@ -14904,12 +14904,12 @@ use_preset_vocabulary: true
 扟	shen	
 鵌	y	
 鵌	tu	
-椲	ui	
+椲	wui	
 躗	huai	
 磶	sih	
-螔	i	
+螔	ji	
 螔	sr	
-櫾	iu	
+櫾	jiu	
 凸	dieh	1%
 髉	boh	
 恜	chih	
@@ -14927,7 +14927,7 @@ use_preset_vocabulary: true
 雂	kim	
 雂	kiem	
 弞	shin	
-弞	in	
+弞	jin	
 醟	yng	
 醟	hyng	
 齚	zheh	
@@ -14945,8 +14945,8 @@ use_preset_vocabulary: true
 鴢	jeu	
 鴢	jau	
 皣	jeh	
-蔩	i	
-蔩	in	
+蔩	ji	
+蔩	jin	
 蔩	jen	
 譧	zham	
 銳	duoi	1%
@@ -14971,7 +14971,7 @@ use_preset_vocabulary: true
 旞	sui	
 鼧	to	
 缿	hiang	
-郼	i	
+郼	ji	
 縜	yn	
 斥	chie	1%
 藣	bei	
@@ -15008,11 +15008,11 @@ use_preset_vocabulary: true
 觓	kiu	
 螶	ky	
 罋	yung	
-罋	ung	
+罋	wung	
 慀	hi	
 糏	sieh	
 豛	yh	
-鷾	i	
+鷾	ji	
 讇	chiem	
 谾	hung	
 谾	hiang	
@@ -15041,7 +15041,7 @@ use_preset_vocabulary: true
 爋	hyn	
 艞	jeu	
 苭	jeu	
-鷣	im	
+鷣	jim	
 鷣	jeu	
 斞	y	
 蝹	yn	
@@ -15057,11 +15057,11 @@ use_preset_vocabulary: true
 遾	shi	
 藗	suh	
 听	ngin	
-蝛	ui	
+蝛	wui	
 揱	sieu	
 揱	shau	
 揱	shuoh	
-鏔	i	
+鏔	ji	
 豑	zhih	
 泏	zhyh	
 泏	kuh	
@@ -15096,13 +15096,13 @@ use_preset_vocabulary: true
 欰	syh	
 抁	yen	
 遃	ngien	
-鴺	i	
+鴺	ji	
 鴺	ti	
 耫	zhah	
 耫	zheh	
 疷	zhi	
 黀	zheu	
-轛	zhui	
+轛	zhyi	
 轛	duoi	
 鮯	goh	
 螷	pi	
@@ -15117,7 +15117,7 @@ use_preset_vocabulary: true
 坹	hyeh	
 鼼	ngieu	
 鼼	ngiu	
-鞇	in	
+鞇	jin	
 屒	chin	
 屒	zhin	
 鶅	zhr	
@@ -15184,8 +15184,8 @@ use_preset_vocabulary: true
 曭	tang	
 鈯	duh	
 欈	yi	
-祐	iu	
-鉹	i	
+祐	jiu	
+鉹	ji	
 鉹	chr	
 餴	fen	
 雈	huon	
@@ -15210,7 +15210,7 @@ use_preset_vocabulary: true
 旝	guoi	
 鄈	kyi	
 稇	kun	
-讄	lui	
+讄	lyi	
 籢	liem	
 豂	lieu	
 韸	pung	
@@ -15233,7 +15233,7 @@ use_preset_vocabulary: true
 鬀	di	
 廜	tu	
 黭	am	
-跠	i	
+跠	ji	
 螸	y	
 驈	shyh	
 驈	yh	
@@ -15257,7 +15257,7 @@ use_preset_vocabulary: true
 貀	nuah	
 煪	ciu	
 楈	sy	
-暆	i	
+暆	ji	
 饇	y	
 唸	dien	1%
 唸	diem	1%
@@ -15273,7 +15273,7 @@ use_preset_vocabulary: true
 騴	jan	
 袎	jau	
 擨	je	
-輢	i	
+輢	ji	
 輢	gi	
 鴪	yh	
 蒕	yn	
@@ -15292,7 +15292,7 @@ use_preset_vocabulary: true
 攐	kien	
 岟	jang	
 鉠	jang	
-鉠	ing	
+鉠	jing	
 狕	jau	
 棛	yuh	
 耺	yn	
@@ -15341,7 +15341,7 @@ use_preset_vocabulary: true
 踓	yi	
 衒	hyen	
 鳫	ngian	
-歋	i	
+歋	ji	
 鳿	ngyuh	
 蠌	zheh	
 鼨	zhyung	
@@ -15353,7 +15353,7 @@ use_preset_vocabulary: true
 餯	hui	
 橜	gyeh	
 憌	kyng	
-豱	un	
+豱	wun	
 鸙	joh	
 韴	zah	
 輻	feu	1%
@@ -15366,7 +15366,7 @@ use_preset_vocabulary: true
 鸍	mi	
 劺	meu	
 鴾	meu	
-勜	ung	
+勜	wung	
 坄	teu	
 坄	yh	
 竱	duon	
@@ -15382,7 +15382,7 @@ use_preset_vocabulary: true
 爈	ly	
 勡	pieu	
 飻	tieh	
-貁	iu	
+貁	jiu	
 蟙	zhih	
 錖	duh	
 椁	guoh	
@@ -15461,9 +15461,9 @@ use_preset_vocabulary: true
 豯	hi	
 蹮	sien	
 炈	yh	
-蛡	ih	
+蛡	jih	
 郺	yung	
-郺	ung	
+郺	wung	
 啡	poi	1%
 觵	gueng	
 蜭	ham	
@@ -15479,7 +15479,7 @@ use_preset_vocabulary: true
 迺	nai	
 蹪	tuoi	
 蝆	jang	
-瘱	i	
+瘱	ji	
 竩	ngi	
 剈	yen	
 裫	yen	
@@ -15498,7 +15498,7 @@ use_preset_vocabulary: true
 郻	kieu	
 磰	shien	
 孈	hua	
-孈	i	
+孈	ji	
 孈	yi	
 孈	hyi	
 孈	huai	
@@ -15530,7 +15530,7 @@ use_preset_vocabulary: true
 莉	chi	1%
 廷	ding	1%
 芒	vang	1%
-蟡	ui	
+蟡	wui	
 蟡	gui	
 襺	gien	
 焥	woh	
@@ -15582,18 +15582,18 @@ use_preset_vocabulary: true
 訅	kiu	
 矎	hyen	
 矎	hyng	
-縯	in	
+縯	jin	
 縯	jen	
 羷	liem	
 証	zhing	
 余	chie	1%
 硅	hueh	1%
 贃	wan	
-饖	ui	
-膡	ing	
+饖	wui	
+膡	jing	
 膡	shing	
 炂	zhyung	
-錘	zhui	1%
+錘	zhyi	1%
 騣	zung	
 頒	fen	1%
 屠	chy	1%
@@ -15606,14 +15606,14 @@ use_preset_vocabulary: true
 惷	chyn	
 划	guo	1%
 壾	mang	
-蜏	iu	
+蜏	jiu	
 蜏	siu	
 沫	moi	1%
-殔	i	
+殔	ji	
 弔	dih	1%
 鴈	ngian	
 屑	suh	1%
-篲	sui	
+篲	syi	
 藚	syuh	
 棵	huon	1%
 棵	kuon	1%
@@ -15626,12 +15626,12 @@ use_preset_vocabulary: true
 娶	sy	1%
 跪	kui	1%
 掠	liang	1%
-台	i	1%
+台	ji	1%
 蔆	ling	
 壼	kun	
 歉	kiam	1%
 粥	yuh	1%
-羨	i	1%
+羨	ji	1%
 羨	jen	1%
 趝	giem	
 痴	chi	
@@ -15687,8 +15687,8 @@ use_preset_vocabulary: true
 溺	rioh	1%
 蔚	yh	1%
 攷	kau	
-鈉	rui	1%
-莖	ing	1%
+鈉	ryi	1%
+莖	jing	1%
 莖	heng	1%
 莖	eng	1%
 滷	chih	1%
@@ -15738,8 +15738,8 @@ use_preset_vocabulary: true
 蝎	hoh	
 样	jang	
 样	zang	
-医	i	
-异	i	
+医	ji	
+异	ji	
 咏	yng	
 与	y	
 咤	zha	
@@ -15747,7 +15747,7 @@ use_preset_vocabulary: true
 鶯	eng	1%
 鉀	goh	1%
 耤	zih	
-姬	i	1%
+姬	ji	1%
 縛	bo	1%
 蛾	ngi	1%
 釳	hih	
@@ -15776,7 +15776,7 @@ use_preset_vocabulary: true
 体	ben	
 痒	siang	
 痒	jang	
-邮	iu	
+邮	jiu	
 邮	dih	
 仕	zhr	1%
 捻	nieh	1%
@@ -15831,12 +15831,12 @@ use_preset_vocabulary: true
 褶	sih	1%
 褶	dieh	1%
 婁	ly	1%
-寅	i	1%
+寅	ji	1%
 撮	zuoh	1%
 磅	peng	1%
 鞘	shau	1%
 瑯	lang	
-輟	zhui	1%
+輟	zhyi	1%
 瘉	y	
 睇	ti	1%
 袪	ky	
@@ -15877,7 +15877,7 @@ use_preset_vocabulary: true
 鉆	kiem	
 鉆	tieh	
 潼	chyung	1%
-鴛	un	1%
+鴛	wun	1%
 簍	ly	1%
 釆	ban	
 輾	zhien	1%
@@ -15900,7 +15900,7 @@ use_preset_vocabulary: true
 澹	tam	1%
 戾	lieh	1%
 籴	dih	
-忧	iu	
+忧	jiu	
 仆	feu	1%
 仆	peu	1%
 仆	beh	1%
@@ -15936,7 +15936,7 @@ use_preset_vocabulary: true
 拴	cyen	1%
 幵	gien	
 繈	giang	
-蛻	shui	1%
+蛻	shyi	1%
 蛻	tuo	1%
 蛻	yeh	1%
 筏	boh	1%
@@ -15949,7 +15949,7 @@ use_preset_vocabulary: true
 沌	tun	1%
 沌	zhyen	1%
 鰻	van	1%
-熨	ui	1%
+熨	wui	1%
 熨	yh	1%
 鐲	shyuh	1%
 靄	oh	1%
@@ -15985,8 +15985,8 @@ use_preset_vocabulary: true
 衕	dung	1%
 悻	heng	1%
 丞	shing	1%
-槌	zhui	1%
-倭	ui	1%
+槌	zhyi	1%
+倭	wui	1%
 濡	nuon	1%
 嘀	zheh	1%
 捎	sieu	1%
@@ -16085,18 +16085,19 @@ use_preset_vocabulary: true
 鍺	duo	1%
 胂	chin	1%
 蟺	shien	
-洟	i	
+洟	ji	
 洟	ti	
 鿫	au	
 佪	huoi	
 睍	hien	
-褎	iu	
+褎	jiu	
 胍	gu	1%
 鉈	shr	1%
 鉈	chie	1%
 釕	dieu	1%
 膦	lien	1%
 絺	chi	
+箠	zhyi	
 箠	zhui	
 剉	cuo	
 儸	lo	
@@ -16123,7 +16124,7 @@ use_preset_vocabulary: true
 蹻	gieu	
 蹻	gioh	
 匋	tau	
-薳	ui	
+薳	wui	
 劄	zhah	
 扺	zhr	
 鏷	buh	1%
@@ -16152,9 +16153,10 @@ use_preset_vocabulary: true
 汍	huon	
 僊	sien	
 纁	hyn	
-婬	im	
+婬	jim	
+猈	pai	1%
 躧	shai	1%
-撢	im	
+撢	jim	
 撢	tam	
 搆	geu	
 凅	gu	
@@ -16207,7 +16209,7 @@ use_preset_vocabulary: true
 屩	gioh	
 梱	ngun	
 梱	kun	
-櫐	lui	
+櫐	lyi	
 鴗	lih	
 嗹	lien	
 鴷	lieh	
@@ -16228,7 +16230,7 @@ use_preset_vocabulary: true
 咷	tieu	
 騠	ti	
 鍮	teu	
-杇	u	
+杇	wu	
 謏	sieu	
 謏	seu	
 謏	shuh	
@@ -16344,12 +16346,12 @@ use_preset_vocabulary: true
 稏	ja	
 駚	jang	
 駚	ang	
-抴	i	
+抴	ji	
 抴	jeh	
 釾	je	
 鈠	yh	
-慇	in	
-鮣	in	
+慇	jin	
+鮣	jin	
 栐	yng	
 騟	y	
 厵	ngyen	
@@ -16363,8 +16365,8 @@ use_preset_vocabulary: true
 兹	zr	
 繤	zuon	
 㐄	kua	
-㐆	i	
-㐆	in	
+㐆	ji	
+㐆	jin	
 㐭	lim	
 㐱	zhin	
 㐲	dai	
@@ -16376,11 +16378,11 @@ use_preset_vocabulary: true
 㑙	dieh	
 㑛	suh	
 㑛	shyuh	
-㑜	i	
+㑜	ji	
 㑜	chi	
-㑞	ing	
+㑞	jing	
 㑟	beng	
-㑥	i	
+㑥	ji	
 㑥	shr	
 㑦	li	
 㑮	hun	
@@ -16402,8 +16404,8 @@ use_preset_vocabulary: true
 㒓	tah	
 㒔	duh	
 㒔	shyuh	
-㒚	un	
-㒚	in	
+㒚	wun	
+㒚	jin	
 㒝	vah	
 㒝	mieh	
 㒟	nieu	
@@ -16416,7 +16418,7 @@ use_preset_vocabulary: true
 㒹	dien	
 㒼	mon	
 㒽	kyen	
-㒾	i	
+㒾	ji	
 㒾	shr	
 㓃	du	
 㓃	zha	
@@ -16432,7 +16434,7 @@ use_preset_vocabulary: true
 㓱	teu	
 㓳	di	
 㓷	ngi	
-㓹	cui	
+㓹	cyi	
 㓺	gien	
 㓻	gang	
 㓼	chr	
@@ -16467,28 +16469,28 @@ use_preset_vocabulary: true
 㔪	lu	
 㔮	no	
 㔯	syen	
-㔴	ih	
+㔴	jih	
 㔶	gam	
 㔶	gung	
 㔸	ti	
 㔹	leh	
 㔻	pei	
-㕀	iu	
+㕀	jiu	
 㕆	du	
 㕆	hu	
 㕇	lah	
-㕈	i	
+㕈	ji	
 㕈	ai	
 㕈	woi	
 㕊	fu	
 㕋	kim	
 㕎	koh	
 㕒	ngui	
-㕗	iu	
+㕗	jiu	
 㕙	cyn	
 㕙	zyn	
 㕚	zhau	
-㕛	iu	
+㕛	jiu	
 㕞	shuah	
 㕟	kuai	
 㕡	hoh	
@@ -16546,7 +16548,7 @@ use_preset_vocabulary: true
 㗿	hia	
 㘀	zoh	
 㘀	zuoh	
-㘁	ih	
+㘁	jih	
 㘆	tai	
 㘈	ngi	
 㘈	ngih	
@@ -16560,12 +16562,12 @@ use_preset_vocabulary: true
 㘠	bih	
 㘣	hyen	
 㘣	syen	
-㘥	iu	
+㘥	jiu	
 㘨	nieh	
 㘰	zhim	
 㘱	tam	
 㘲	gyuh	
-㘻	in	
+㘻	jin	
 㘿	nieh	
 㙀	liu	
 㙁	muh	
@@ -16575,11 +16577,11 @@ use_preset_vocabulary: true
 㙊	chiang	
 㙏	fuh	
 㙙	lyung	
-㙠	i	
+㙠	ji	
 㙤	hia	
 㙨	ki	
 㙩	lieu	
-㙪	i	
+㙪	ji	
 㙱	hau	
 㙴	chiem	
 㙷	zhih	
@@ -16607,7 +16609,7 @@ use_preset_vocabulary: true
 㚠	hieu	
 㚠	kieu	
 㚢	nu	
-㚤	ih	
+㚤	jih	
 㚫	sah	
 㚲	chiem	
 㚲	chieh	
@@ -16615,7 +16617,7 @@ use_preset_vocabulary: true
 㛁	peng	
 㛂	nguo	
 㛂	nuo	
-㛄	i	
+㛄	ji	
 㛅	r	
 㛊	duo	
 㛍	hiem	
@@ -16633,7 +16635,7 @@ use_preset_vocabulary: true
 㛮	sau	
 㛱	woi	
 㛳	zhi	
-㛳	i	
+㛳	ji	
 㛴	nau	
 㛶	tan	
 㛹	pien	
@@ -16659,7 +16661,7 @@ use_preset_vocabulary: true
 㜮	lam	
 㜰	joh	
 㜰	shioh	
-㜲	ing	
+㜲	jing	
 㜳	huai	
 㜵	nieu	
 㜷	mi	
@@ -16671,7 +16673,7 @@ use_preset_vocabulary: true
 㝅	neu	
 㝅	geu	
 㝈	shuan	
-㝌	iu	
+㝌	jiu	
 㝌	giu	
 㝏	giai	
 㝐	yung	
@@ -16679,7 +16681,7 @@ use_preset_vocabulary: true
 㝗	lang	
 㝞	ja	
 㝢	y	
-㝣	i	
+㝣	ji	
 㝣	jeh	
 㝤	geu	
 㝩	kang	
@@ -16748,10 +16750,10 @@ use_preset_vocabulary: true
 㠛	weh	
 㠠	ly	
 㠢	huai	
-㠥	lui	
+㠥	lyi	
 㠦	fung	
 㠭	zhien	
-㠯	i	
+㠯	ji	
 㠴	rih	
 㠵	huang	
 㠷	goh	
@@ -16791,7 +16793,7 @@ use_preset_vocabulary: true
 㡝	fung	
 㡟	zau	
 㡟	cau	
-㡥	in	
+㡥	jin	
 㡧	zheng	
 㡨	ciem	
 㡨	ziem	
@@ -16800,7 +16802,7 @@ use_preset_vocabulary: true
 㡷	ben	
 㡹	cr	
 㡺	dan	
-㡼	i	
+㡼	ji	
 㡿	chih	
 㢀	cr	
 㢁	chr	
@@ -16824,13 +16826,13 @@ use_preset_vocabulary: true
 㢰	bei	
 㢵	hieh	
 㢸	bih	
-㢻	nui	
+㢻	nyi	
 㢼	bieh	
 㢾	gyen	
 㣁	bei	
 㣂	ngeh	
 㣅	zam	
-㣇	i	
+㣇	ji	
 㣇	di	
 㣈	sr	
 㣌	sham	
@@ -16884,22 +16886,22 @@ use_preset_vocabulary: true
 㥆	tuh	
 㥈	dieh	
 㥊	peng	
-㥋	i	
+㥋	ji	
 㥌	gyuh	
 㥏	tien	
 㥒	cai	
 㥓	ki	
 㥚	y	
 㥛	gih	
-㥜	ui	
+㥜	wui	
 㥝	mi	
 㥟	hiai	
 㥠	sy	
 㥢	ciu	
 㥦	kieh	
 㥨	shui	
-㥯	in	
-㥴	i	
+㥯	jin	
+㥴	ji	
 㥶	seh	
 㥽	cheh	
 㥾	nih	
@@ -16920,7 +16922,7 @@ use_preset_vocabulary: true
 㦝	moh	
 㦟	mai	
 㦣	zi	
-㦣	ui	
+㦣	wui	
 㦣	ngi	
 㦦	hih	
 㦬	lo	
@@ -16950,7 +16952,7 @@ use_preset_vocabulary: true
 㧘	gi	
 㧘	zr	
 㧡	hai	
-㧢	in	
+㧢	jin	
 㧦	hyen	
 㧲	sam	
 㧳	zhuai	
@@ -16961,7 +16963,7 @@ use_preset_vocabulary: true
 㧻	zhuoh	
 㨁	zhi	
 㨁	shih	
-㨅	nui	
+㨅	nyi	
 㨋	chie	
 㨍	bang	
 㨎	ryeh	
@@ -16986,7 +16988,7 @@ use_preset_vocabulary: true
 㨶	dau	
 㨷	kin	
 㨷	gin	
-㨹	zui	
+㨹	zyi	
 㨹	syeh	
 㨻	cam	
 㨻	sham	
@@ -17013,7 +17015,7 @@ use_preset_vocabulary: true
 㩻	gui	
 㩼	zhr	
 㩽	ki	
-㩾	zhui	
+㩾	zhyi	
 㩿	kuh	
 㪁	kim	
 㪁	kam	
@@ -17103,7 +17105,7 @@ use_preset_vocabulary: true
 㭿	ngang	
 㮁	hiau	
 㮂	gyuh	
-㮃	ui	
+㮃	wui	
 㮅	zhui	
 㮇	tiem	
 㮌	mien	
@@ -17119,11 +17121,11 @@ use_preset_vocabulary: true
 㮤	syung	
 㮥	ben	
 㮦	soh	
-㮧	u	
+㮧	wu	
 㮨	zih	
 㮩	sih	
 㮫	hoh	
-㮬	ung	
+㮬	wung	
 㮭	hiam	
 㮯	hun	
 㮰	pi	
@@ -17144,7 +17146,7 @@ use_preset_vocabulary: true
 㯋	gyng	
 㯍	ziang	
 㯓	tah	
-㯔	cui	
+㯔	cyi	
 㯔	chuai	
 㯕	si	
 㯙	zhieh	
@@ -17173,7 +17175,7 @@ use_preset_vocabulary: true
 㰊	siem	
 㰋	pin	
 㰍	lung	
-㰘	i	
+㰘	ji	
 㰚	li	
 㰠	hang	
 㰢	keng	
@@ -17201,18 +17203,18 @@ use_preset_vocabulary: true
 㰵	zyh	
 㰶	bieu	
 㰹	hiam	
-㰻	i	
+㰻	ji	
 㰼	shah	
 㰽	jen	
 㰾	gieu	
 㰾	gih	
 㱀	chr	
 㱂	kang	
-㱃	im	
+㱃	jim	
 㱄	heh	
 㱇	hieu	
 㱇	sheh	
-㱊	iu	
+㱊	jiu	
 㱍	luon	
 㱎	gun	
 㱒	ho	
@@ -17235,7 +17237,7 @@ use_preset_vocabulary: true
 㱯	gai	
 㱯	ngai	
 㱱	huoi	
-㱲	i	
+㱲	ji	
 㱴	zr	
 㱵	fen	
 㱸	bih	
@@ -17264,7 +17266,7 @@ use_preset_vocabulary: true
 㲚	sha	
 㲝	mou	
 㲞	suh	
-㲟	ing	
+㲟	jing	
 㲡	nai	
 㲢	bien	
 㲥	tang	
@@ -17289,7 +17291,7 @@ use_preset_vocabulary: true
 㳗	chai	
 㳘	chyung	
 㳛	y	
-㳛	iu	
+㳛	jiu	
 㳥	lung	
 㳦	hiai	
 㳧	chieh	
@@ -17303,7 +17305,7 @@ use_preset_vocabulary: true
 㴂	tam	
 㴄	weng	
 㴐	mien	
-㴒	ih	
+㴒	jih	
 㴥	cieu	
 㴦	gyung	
 㴧	sih	
@@ -17321,14 +17323,14 @@ use_preset_vocabulary: true
 㵑	ho	
 㵒	fei	
 㵗	ping	
-㵝	i	
+㵝	ji	
 㵞	cheu	
 㵟	mei	
 㵟	vei	
 㵣	koh	
 㵧	goh	
 㵨	pi	
-㵩	i	
+㵩	ji	
 㵫	nih	
 㵶	zah	
 㵶	zieh	
@@ -17345,7 +17347,7 @@ use_preset_vocabulary: true
 㶆	zhy	
 㶇	hueng	
 㶌	lien	
-㶏	in	
+㶏	jin	
 㶒	tam	
 㶔	bai	
 㶕	gian	
@@ -17353,7 +17355,7 @@ use_preset_vocabulary: true
 㶗	fan	
 㶘	diem	
 㶛	y	
-㶟	lui	
+㶟	lyi	
 㶣	tam	
 㶣	chiem	
 㶧	nun	
@@ -17367,7 +17369,7 @@ use_preset_vocabulary: true
 㷅	chah	
 㷆	feu	
 㷇	kuoi	
-㷉	ui	
+㷉	wui	
 㷒	ngy	
 㷟	tuoi	
 㷠	lin	
@@ -17383,7 +17385,7 @@ use_preset_vocabulary: true
 㸊	lai	
 㸎	nieh	
 㸏	mei	
-㸒	im	
+㸒	jim	
 㸙	zhie	
 㸚	li	
 㸛	chieu	
@@ -17428,7 +17430,7 @@ use_preset_vocabulary: true
 㹤	kieh	
 㹥	zhy	
 㹧	ang	
-㹭	i	
+㹭	ji	
 㹮	meh	
 㹯	hiu	
 㹱	cyuh	
@@ -17471,7 +17473,7 @@ use_preset_vocabulary: true
 㺪	poh	
 㺴	bah	
 㺹	bien	
-㺿	i	
+㺿	ji	
 㻌	tu	
 㻍	ngu	
 㻒	gyn	
@@ -17494,14 +17496,14 @@ use_preset_vocabulary: true
 㼐	pien	
 㼑	lien	
 㼒	tang	
-㼔	un	
+㼔	wun	
 㼕	dang	
 㼗	ting	
 㼛	hing	
 㼟	beh	
 㼠	to	
 㼡	chy	
-㼢	i	
+㼢	ji	
 㼤	kieh	
 㼦	gyung	
 㼧	tung	
@@ -17596,12 +17598,12 @@ use_preset_vocabulary: true
 㾙	hin	
 㾛	cim	
 㾜	kieh	
-㾞	iu	
+㾞	jiu	
 㾢	lai	
 㾤	kiang	
 㾦	poi	
 㾧	kuo	
-㾨	i	
+㾨	ji	
 㾨	ki	
 㾩	guai	
 㾪	sheng	
@@ -17623,7 +17625,7 @@ use_preset_vocabulary: true
 㿁	jeu	
 㿃	zhi	
 㿃	dai	
-㿄	i	
+㿄	ji	
 㿄	jai	
 㿉	tuoi	
 㿊	cien	
@@ -17646,7 +17648,7 @@ use_preset_vocabulary: true
 㿩	tang	
 㿪	huon	
 㿬	ba	
-㿮	ing	
+㿮	jing	
 㿮	jang	
 㿯	dah	
 㿱	syeh	
@@ -17659,7 +17661,7 @@ use_preset_vocabulary: true
 㿼	ngien	
 㿿	ngia	
 䀀	fam	
-䀁	iu	
+䀁	jiu	
 䀂	an	
 䀄	mung	
 䀈	ki	
@@ -17746,7 +17748,7 @@ use_preset_vocabulary: true
 䁴	zhien	
 䁴	shien	
 䁵	bien	
-䁷	uh	
+䁷	wuh	
 䁷	gioh	
 䁸	nang	
 䁺	shih	
@@ -17791,11 +17793,11 @@ use_preset_vocabulary: true
 䃓	geu	
 䃔	hung	
 䃕	loh	
-䃖	u	
+䃖	wu	
 䃗	chuoh	
 䃚	cuh	
 䃛	lien	
-䃜	i	
+䃜	ji	
 䃞	shyuh	
 䃤	sieu	
 䃤	syuh	
@@ -17817,7 +17819,7 @@ use_preset_vocabulary: true
 䄆	guah	
 䄈	deu	
 䄉	ngo	
-䄌	zhui	
+䄌	zhyi	
 䄍	zha	
 䄐	kyen	
 䄓	hueng	
@@ -17826,9 +17828,9 @@ use_preset_vocabulary: true
 䄝	chuang	
 䄠	shien	
 䄤	lai	
-䄩	ih	
+䄩	jih	
 䄪	dieu	
-䄬	i	
+䄬	ji	
 䄮	fu	
 䄱	fang	
 䄲	rui	
@@ -17837,7 +17839,7 @@ use_preset_vocabulary: true
 䄷	shih	
 䄻	chau	
 䄼	tiem	
-䄿	i	
+䄿	ji	
 䅀	li	
 䅀	lieh	
 䅁	an	
@@ -17863,7 +17865,7 @@ use_preset_vocabulary: true
 䅥	koh	
 䅥	gieh	
 䅧	jem	
-䅧	im	
+䅧	jim	
 䅩	zhr	
 䅬	jai	
 䅭	pang	
@@ -17905,7 +17907,7 @@ use_preset_vocabulary: true
 䇂	kien	
 䇎	cioh	
 䇏	duoi	
-䇐	lui	
+䇐	lyi	
 䇐	li	
 䇐	lih	
 䇑	ba	
@@ -17916,7 +17918,7 @@ use_preset_vocabulary: true
 䇞	gam	
 䇦	ang	
 䇨	gung	
-䇩	i	
+䇩	ji	
 䇫	gi	
 䇬	chy	
 䇮	rim	
@@ -17964,14 +17966,14 @@ use_preset_vocabulary: true
 䈲	pon	
 䈲	bon	
 䈳	dah	
-䈵	ung	
+䈵	wung	
 䈶	yung	
 䈸	huh	
 䈺	zhyung	
 䈻	pu	
 䈿	mih	
 䉁	ling	
-䉂	lui	
+䉂	lyi	
 䉃	ziang	
 䉈	san	
 䉈	sah	
@@ -18063,7 +18065,7 @@ use_preset_vocabulary: true
 䋭	yuh	
 䋰	gyuh	
 䋱	lai	
-䋵	i	
+䋵	ji	
 䋷	meu	
 䋷	miu	
 䋸	syn	
@@ -18086,7 +18088,7 @@ use_preset_vocabulary: true
 䌠	kiem	
 䌠	hiem	
 䌠	giam	
-䌥	in	
+䌥	jin	
 䌦	dau	
 䌦	dih	
 䌨	cah	
@@ -18097,7 +18099,7 @@ use_preset_vocabulary: true
 䌳	chr	
 䌴	luo	
 䌵	zhyuh	
-䍃	iu	
+䍃	jiu	
 䍄	diem	
 䍆	zhy	
 䍇	dah	
@@ -18132,7 +18134,7 @@ use_preset_vocabulary: true
 䍮	zhieu	
 䍱	sy	
 䍲	nai	
-䍴	ui	
+䍴	wui	
 䍶	dung	
 䍶	chin	
 䍸	boh	
@@ -18148,7 +18150,7 @@ use_preset_vocabulary: true
 䎃	nam	
 䎃	riem	
 䎄	hieu	
-䎈	i	
+䎈	ji	
 䎌	chuh	
 䎎	nieh	
 䎑	luh	
@@ -18195,7 +18197,7 @@ use_preset_vocabulary: true
 䏔	niu	
 䏕	rim	
 䏖	zhin	
-䏖	in	
+䏖	jin	
 䏘	pih	
 䏙	tam	
 䏟	bieh	
@@ -18238,7 +18240,7 @@ use_preset_vocabulary: true
 䐣	sun	
 䐤	chai	
 䐤	cha	
-䐥	ung	
+䐥	wung	
 䐨	guh	
 䐩	guoi	
 䐩	gai	
@@ -18262,7 +18264,7 @@ use_preset_vocabulary: true
 䐾	doh	
 䐿	au	
 䐿	yuh	
-䑁	uh	
+䑁	wuh	
 䑃	mung	
 䑄	pei	
 䑄	bei	
@@ -18312,7 +18314,7 @@ use_preset_vocabulary: true
 䒘	sui	
 䒚	shieu	
 䒞	chim	
-䒞	im	
+䒞	jim	
 䒞	dam	
 䒢	ngang	
 䒢	ngiang	
@@ -18324,14 +18326,14 @@ use_preset_vocabulary: true
 䒰	kuang	
 䒱	zhing	
 䒲	zha	
-䒴	iu	
+䒴	jiu	
 䒶	tien	
 䒷	guoh	
 䒸	hyeh	
 䒹	luoi	
 䒼	kyuh	
 䓂	ngien	
-䓃	ih	
+䓃	jih	
 䓄	ngin	
 䓈	yi	
 䓈	yh	
@@ -18375,8 +18377,8 @@ use_preset_vocabulary: true
 䔛	kyng	
 䔜	tam	
 䔞	lyh	
-䔟	i	
-䔬	i	
+䔟	ji	
+䔬	ji	
 䔭	ning	
 䔮	sr	
 䔯	ku	
@@ -18389,7 +18391,7 @@ use_preset_vocabulary: true
 䔷	kim	
 䔸	bieu	
 䔺	yi	
-䔽	i	
+䔽	ji	
 䔽	ai	
 䔾	ki	
 䔾	kiah	
@@ -18402,13 +18404,13 @@ use_preset_vocabulary: true
 䕇	guoi	
 䕇	huoi	
 䕈	sieh	
-䕍	i	
+䕍	ji	
 䕓	chah	
 䕘	ling	
 䕙	zieh	
 䕞	lang	
 䕡	ly	
-䕦	ing	
+䕦	jing	
 䕧	hiau	
 䕧	giau	
 䕩	lau	
@@ -18478,7 +18480,7 @@ use_preset_vocabulary: true
 䗲	lin	
 䗵	giang	
 䗶	lah	
-䗷	ih	
+䗷	jih	
 䗽	yi	
 䗿	ning	
 䘀	feu	
@@ -18493,7 +18495,7 @@ use_preset_vocabulary: true
 䘎	wan	
 䘒	zuoi	
 䘓	kam	
-䘝	ih	
+䘝	jih	
 䘢	zhy	
 䘨	gieu	
 䘪	chyung	
@@ -18503,7 +18505,7 @@ use_preset_vocabulary: true
 䘱	y	
 䘳	gim	
 䘷	bieh	
-䘸	ih	
+䘸	jih	
 䘸	zhih	
 䘼	yen	
 䘽	ngi	
@@ -18524,10 +18526,10 @@ use_preset_vocabulary: true
 䙕	zyung	
 䙘	chu	
 䙘	zyuh	
-䙟	ui	
+䙟	wui	
 䙡	kui	
 䙢	zing	
-䙬	ing	
+䙬	jing	
 䙬	eng	
 䙭	kien	
 䙭	gien	
@@ -18574,9 +18576,9 @@ use_preset_vocabulary: true
 䚮	ring	
 䚳	zhr	
 䚴	nguah	
-䚷	i	
+䚷	ji	
 䚹	pi	
-䚻	iu	
+䚻	jiu	
 䛄	yen	
 䛅	hiah	
 䛆	zhiu	
@@ -18595,7 +18597,7 @@ use_preset_vocabulary: true
 䛢	tuo	
 䛢	tuh	
 䛥	hih	
-䛩	u	
+䛩	wu	
 䛪	kyung	
 䛬	tau	
 䛭	hing	
@@ -18603,7 +18605,7 @@ use_preset_vocabulary: true
 䛮	giu	
 䛳	jem	
 䛹	cien	
-䛻	iu	
+䛻	jiu	
 䛽	zhah	
 䛾	su	
 䜂	hau	
@@ -18620,7 +18622,7 @@ use_preset_vocabulary: true
 䜌	lyen	
 䜏	tuo	
 䜐	hyi	
-䜑	u	
+䜑	wu	
 䜒	au	
 䜕	hiai	
 䜕	mai	
@@ -18643,7 +18645,7 @@ use_preset_vocabulary: true
 䜺	cheh	
 䜼	guh	
 䜽	y	
-䜾	im	
+䜾	jim	
 䝁	lau	
 䝄	shuang	
 䝋	zung	
@@ -18695,7 +18697,7 @@ use_preset_vocabulary: true
 䞣	cheh	
 䞤	ky	
 䞤	fu	
-䞥	iu	
+䞥	jiu	
 䞦	heh	
 䞧	heu	
 䞨	kyi	
@@ -18820,7 +18822,7 @@ use_preset_vocabulary: true
 䡞	gyuh	
 䡣	hien	
 䡣	hun	
-䡧	u	
+䡧	wu	
 䡩	keng	
 䡬	van	
 䡭	siu	
@@ -18894,7 +18896,7 @@ use_preset_vocabulary: true
 䣢	zih	
 䣣	dang	
 䣤	guoh	
-䣧	ih	
+䣧	jih	
 䣩	chyn	
 䣪	poh	
 䣮	boh	
@@ -18907,10 +18909,10 @@ use_preset_vocabulary: true
 䣽	zhi	
 䣿	y	
 䣿	hy	
-䤁	im	
+䤁	jim	
 䤁	cim	
 䤂	moi	
-䤃	im	
+䤃	jim	
 䤅	tu	
 䤅	teu	
 䤉	mih	
@@ -18972,7 +18974,7 @@ use_preset_vocabulary: true
 䦪	jah	
 䦱	kua	
 䦱	kuai	
-䦱	ui	
+䦱	wui	
 䦲	jem	
 䦲	chiem	
 䦳	hiang	
@@ -18980,9 +18982,9 @@ use_preset_vocabulary: true
 䦼	pih	
 䧁	ky	
 䧁	hy	
-䧅	i	
+䧅	ji	
 䧆	hung	
-䧇	i	
+䧇	ji	
 䧊	kuh	
 䧊	guh	
 䧎	hyen	
@@ -18993,7 +18995,7 @@ use_preset_vocabulary: true
 䧞	ma	
 䧢	ky	
 䧤	buh	
-䧦	ui	
+䧦	wui	
 䧦	hui	
 䧨	ngieh	
 䧪	chieh	
@@ -19019,7 +19021,7 @@ use_preset_vocabulary: true
 䨥	huoh	
 䨥	zhih	
 䨦	pang	
-䨨	zhui	
+䨨	zhyi	
 䨮	syeh	
 䨰	poh	
 䨲	neu	
@@ -19071,7 +19073,7 @@ use_preset_vocabulary: true
 䩶	ching	
 䩸	ryung	
 䩹	ngeh	
-䩺	ung	
+䩺	wung	
 䩼	fung	
 䩽	y	
 䩿	fen	
@@ -19158,7 +19160,7 @@ use_preset_vocabulary: true
 䫲	ham	
 䫳	duh	
 䫴	gim	
-䫴	im	
+䫴	jim	
 䫵	mien	
 䫶	fen	
 䫸	chau	
@@ -19168,8 +19170,8 @@ use_preset_vocabulary: true
 䫾	pieh	
 䫾	bih	
 䫿	chieu	
-䬀	iu	
-䬁	i	
+䬀	jiu	
+䬁	ji	
 䬂	hyh	
 䬂	hyeh	
 䬆	li	
@@ -19182,7 +19184,7 @@ use_preset_vocabulary: true
 䬎	gueh	
 䬐	rui	
 䬐	woi	
-䬑	ui	
+䬑	wui	
 䬑	yh	
 䬘	hiau	
 䬝	hueng	
@@ -19196,7 +19198,7 @@ use_preset_vocabulary: true
 䬫	di	
 䬫	ti	
 䬬	jang	
-䬮	i	
+䬮	ji	
 䬯	niem	
 䬰	shieu	
 䬳	bon	
@@ -19205,12 +19207,12 @@ use_preset_vocabulary: true
 䬵	jai	
 䬷	shie	
 䬼	yen	
-䬽	shui	
+䬽	shyi	
 䬽	luoi	
 䬾	ti	
 䬿	vei	
 䭁	zhi	
-䭂	ih	
+䭂	jih	
 䭃	rim	
 䭆	neh	
 䭈	gien	
@@ -19222,15 +19224,15 @@ use_preset_vocabulary: true
 䭔	duoi	
 䭕	zam	
 䭖	zhy	
-䭘	ing	
+䭘	jing	
 䭙	zim	
-䭡	un	
+䭡	wun	
 䭡	en	
 䭢	neng	
 䭤	kien	
 䭦	boh	
 䭨	shuai	
-䭨	shui	
+䭨	shyi	
 䭩	mo	
 䭬	ki	
 䭭	shiu	
@@ -19241,7 +19243,7 @@ use_preset_vocabulary: true
 䭴	hyen	
 䭸	fu	
 䭹	ngang	
-䭿	ih	
+䭿	jih	
 䭿	dieh	
 䮀	boh	
 䮂	boh	
@@ -19266,10 +19268,10 @@ use_preset_vocabulary: true
 䮳	fan	
 䮴	deng	
 䮷	duh	
-䮸	uh	
+䮸	wuh	
 䮸	gioh	
 䮸	joh	
-䮹	ui	
+䮹	wui	
 䮻	dau	
 䮾	pung	
 䮾	lang	
@@ -19278,7 +19280,7 @@ use_preset_vocabulary: true
 䯇	kuh	
 䯇	kuah	
 䯈	nguon	
-䯉	uh	
+䯉	wuh	
 䯉	wah	
 䯊	ko	
 䯋	koh	
@@ -19356,11 +19358,11 @@ use_preset_vocabulary: true
 䰼	zam	
 䰽	boi	
 䱂	jeu	
-䱂	iu	
+䱂	jiu	
 䱅	moh	
 䱊	mi	
 䱋	gyung	
-䱌	i	
+䱌	ji	
 䱍	geng	
 䱏	teu	
 䱐	fu	
@@ -19384,7 +19386,7 @@ use_preset_vocabulary: true
 䱮	ngeh	
 䱱	ti	
 䱲	yen	
-䱵	ung	
+䱵	wung	
 䱷	ngy	
 䱺	hai	
 䱻	huah	
@@ -19414,7 +19416,7 @@ use_preset_vocabulary: true
 䲹	pei	
 䲽	shih	
 䲾	kiau	
-䳀	ih	
+䳀	jih	
 䳀	dieh	
 䳅	zhr	
 䳇	vu	
@@ -19424,7 +19426,7 @@ use_preset_vocabulary: true
 䳎	giu	
 䳏	gyi	
 䳐	cr	
-䳑	iu	
+䳑	jiu	
 䳔	gyuh	
 䳕	feu	
 䳖	nieh	
@@ -19466,9 +19468,9 @@ use_preset_vocabulary: true
 䴤	sheng	
 䴥	gia	
 䴦	ngin	
-䴧	ui	
+䴧	wui	
 䴬	shyuh	
-䴬	ih	
+䴬	jih	
 䴭	cai	
 䴮	shan	
 䴲	moh	
@@ -19489,7 +19491,7 @@ use_preset_vocabulary: true
 䵂	dih	
 䵃	gueng	
 䵈	kuh	
-䵋	ui	
+䵋	wui	
 䵋	guoi	
 䵌	hiem	
 䵎	tuon	
@@ -19501,7 +19503,7 @@ use_preset_vocabulary: true
 䵖	kien	
 䵗	beh	
 䵘	shai	
-䵝	i	
+䵝	ji	
 䵞	king	
 䵟	gan	
 䵣	dah	
@@ -19514,12 +19516,12 @@ use_preset_vocabulary: true
 䵱	hih	
 䵳	woi	
 䵳	wai	
-䵴	ing	
+䵴	jing	
 䵵	chuah	
 䵵	zhuah	
 䵸	ciu	
 䵹	zhi	
-䵻	sui	
+䵻	syi	
 䵼	shiang	
 䵽	cah	
 䶀	tah	
